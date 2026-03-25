@@ -54,7 +54,7 @@ def main():
     # 1. 构造页头
     header = f"""
     <div style='text-align: center; background: #b71c1c; padding: 20px; color: white; border-radius: 10px;'>
-        <h1 style='margin: 0;'>子超的 BBC 雅思晨读</h1>
+        <h1 style='margin: 0;'>王浩的 BBC 雅思晨读</h1>
         <p style='margin: 5px 0 0 0;'>📅 {time.strftime('%Y-%m-%d')} | 目标：CUHK</p>
     </div>
     """
