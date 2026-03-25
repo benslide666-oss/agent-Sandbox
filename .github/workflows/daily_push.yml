@@ -1,0 +1,29 @@
+name: Daily News Push
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 1. 检查代码
+        uses: actions/checkout@v3
+
+      - name: 2. 安装 Python 环境
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: 3. 安装依赖包
+        run: |
+          pip install requests googletrans==3.1.0a0
+
+      - name: 4. 运行脚本并传入密钥
+        env:
+          NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
+          PUSHPLUS_TOKEN: ${{ secrets.PUSHPLUS_TOKEN }}
+        run: python daily_news.py
