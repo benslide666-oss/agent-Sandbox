@@ -1,8 +1,7 @@
-name: Morning News Report for Wang Hao
+name: Morning Deep Report for Wang Hao
 
 on:
   schedule:
-    # 北京时间 07:00 (UTC 23:00)
     - cron: '0 23 * * *'
   workflow_dispatch:
 
