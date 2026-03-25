@@ -1,76 +1,95 @@
 import os
 import requests
 import time
-from googletrans import Translator
+import sys
+
+# 打印第一行，确保我们知道程序启动了
+print("--- [系统日志] 程序开始初始化... ---")
+
+try:
+    from googletrans import Translator
+    print("--- [系统日志] 翻译插件加载成功 ---")
+except Exception as e:
+    print(f"❌ [严重错误] 无法加载翻译插件: {e}")
+    sys.exit(1)
 
 # ================= 安全配置区 =================
-# 从 GitHub Secrets 中自动读取密钥
 NEWS_API_KEY = os.getenv('NEWS_API_KEY')
 PUSHPLUS_TOKEN = os.getenv('PUSHPLUS_TOKEN')
 # ============================================
 
-translator = Translator()
-
-def translate_text(text):
-    """翻译函数：将英文翻译为中文"""
+def translate_text(translator, text):
+    """翻译函数：带错误捕获"""
     if not text or len(text.strip()) == 0:
-        return "暂无摘要内容"
+        return "暂无内容"
     try:
-        # 尝试翻译，dest='zh-cn' 表示目标语言为简体中文
-        # 使用 3.1.0a0 版本的 googletrans 比较稳定
+        # 增加超时设置
         result = translator.translate(text, dest='zh-cn')
         return result.text
     except Exception as e:
-        print(f"翻译出错: {e}")
-        return text # 翻译失败则返回原文
+        print(f"⚠️ 翻译微报错 (将返回原文): {e}")
+        return text
 
 def get_news_data(category, count=8):
-    """获取指定类目的全球新闻（建议 count 设置为 8 以防内容过大）"""
+    """抓取新闻"""
     print(f"🚀 正在抓取 {category} 类目新闻...")
     url = f"https://newsapi.org/v2/top-headlines?category={category}&language=en&pageSize={count}&apiKey={NEWS_API_KEY}"
     try:
-        response = requests.get(url, timeout=20)
-        return response.json().get('articles', [])
+        response = requests.get(url, timeout=15)
+        articles = response.json().get('articles', [])
+        print(f"✅ 成功抓取 {len(articles)} 条 {category} 新闻")
+        return articles
     except Exception as e:
-        print(f"获取新闻失败: {e}")
+        print(f"❌ 获取新闻失败: {e}")
         return []
 
-def format_news_section(articles, section_title):
-    """格式化新闻板块：标题(中) + 摘要(中) + 链接"""
-    html = f"<h2 style='color: #2c3e50; border-left: 5px solid #3498db; padding-left: 10px; margin-top: 30px;'>🌟 {section_title}</h2>"
-    
-    if not articles:
-        return html + "<p>未能获取到相关新闻，请检查 API 状态。</p>"
-
-    for i, art in enumerate(articles):
-        # 翻译标题和摘要
-        title_cn = translate_text(art.get('title', '无标题'))
-        desc_cn = translate_text(art.get('description', '作者未提供内容摘要'))
-        
-        # 组装 HTML
-        html += f"""
-        <div style='margin-bottom: 20px; border-bottom: 1px dashed #eee; padding-bottom: 15px;'>
-            <div style='font-weight: bold; font-size: 16px; color: #333;'>{i+1}. {title_cn}</div>
-            <p style='font-size: 14px; color: #666; margin-top: 5px; line-height: 1.5;'><b>简要内容：</b>{desc_cn}</p>
-            <a href='{art['url']}' style='color: #3498db; text-decoration: none; font-size: 13px;'>🔗 查看原文 (English)</a>
-        </div>
-        """
-        # 控制频率，防止请求过快
-        time.sleep(0.4)
-        print(f"已处理 {section_title} 第 {i+1} 条...")
-        
-    return html
-
-def get_daily_quote():
-    """获取雅思每日金句（助力子超的语言提升）"""
-    try:
-        # 使用励志语录 API
-        res = requests.get("https://api.quotable.io/random?tags=inspirational", timeout=5).json()
-        en = res['content']
-        cn = translate_text(en)
-        return f"<div style='background: #f1f9ff; padding: 15px; border-radius: 8px; margin-bottom: 20px;'><b>💡 IELTS 每日金句：</b><br><i style='color: #555;'>{en}</i><br><span style='color: #2c3e50;'>{cn}</span></div>"
-    except:
-        return ""
-
 def main():
+    # 在函数内部初始化翻译器，防止全局卡死
+    try:
+        translator = Translator()
+    except Exception as e:
+        print(f"❌ 翻译器初始化失败: {e}")
+        return
+
     start_time = time.time()
+    
+    # 1. 抓取数据
+    hot_articles = get_news_data('general', 8)
+    med_articles = get_news_data('health', 8)
+
+    if not hot_articles and not med_articles:
+        print("⚠️ 未抓取到任何新闻，请检查 NEWS_API_KEY 是否正确。")
+        return
+
+    # 2. 构造 HTML (精简版排版)
+    html = f"<h1 style='color: #1a73e8;'>早安，子超！</h1>"
+    
+    # 全球新闻板块
+    html += "<h2>🌟 今日全球焦点</h2>"
+    for art in hot_articles:
+        title = translate_text(translator, art.get('title', '无标题'))
+        html += f"<p><b>· {title}</b> <br> <a href='{art['url']}'>查看原文</a></p>"
+    
+    # 医药健康板块
+    html += "<h2>💊 医药健康前沿</h2>"
+    for art in med_articles:
+        title = translate_text(translator, art.get('title', '无标题'))
+        html += f"<p><b>· {title}</b> <br> <a href='{art['url']}'>查看原文</a></p>"
+
+    # 3. 推送
+    print(f"📨 正在推送至微信 (内容长度: {len(html)})...")
+    payload = {
+        "token": PUSHPLUS_TOKEN,
+        "title": "🌍 每日双语资讯简报",
+        "content": html,
+        "template": "html"
+    }
+    
+    try:
+        res = requests.post('http://www.pushplus.plus/send', json=payload, timeout=20)
+        print(f"✅ 推送任务完成！服务器回复: {res.text}")
+    except Exception as e:
+        print(f"❌ 推送过程出错: {e}")
+
+if __name__ == "__main__":
+    main()
