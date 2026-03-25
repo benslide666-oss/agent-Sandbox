@@ -1,0 +1,25 @@
+name: Morning News Report for Wang Hao
+
+on:
+  schedule:
+    # 北京时间 07:00 (UTC 23:00)
+    - cron: '0 23 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.9'
+      - name: Install Dependencies
+        run: pip install requests googletrans==3.1.0a0
+      - name: Run Report
+        env:
+          NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
+          EMAIL_SENDER: ${{ secrets.EMAIL_SENDER }}
+          EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
+          EMAIL_RECEIVER: ${{ secrets.EMAIL_RECEIVER }}
+        run: python daily_report.py
