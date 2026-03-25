@@ -17,14 +17,15 @@ def translate_text(text):
         return "暂无摘要内容"
     try:
         # 尝试翻译，dest='zh-cn' 表示目标语言为简体中文
+        # 使用 3.1.0a0 版本的 googletrans 比较稳定
         result = translator.translate(text, dest='zh-cn')
         return result.text
     except Exception as e:
         print(f"翻译出错: {e}")
         return text # 翻译失败则返回原文
 
-def get_news_data(category, count=20):
-    """获取指定类目的全球新闻"""
+def get_news_data(category, count=8):
+    """获取指定类目的全球新闻（建议 count 设置为 8 以防内容过大）"""
     print(f"🚀 正在抓取 {category} 类目新闻...")
     url = f"https://newsapi.org/v2/top-headlines?category={category}&language=en&pageSize={count}&apiKey={NEWS_API_KEY}"
     try:
@@ -36,7 +37,7 @@ def get_news_data(category, count=20):
 
 def format_news_section(articles, section_title):
     """格式化新闻板块：标题(中) + 摘要(中) + 链接"""
-    html = f"<h2 style='color: #2c3e50; border-left: 5px solid #3498db; padding-left: 10px;'>🌟 {section_title}</h2>"
+    html = f"<h2 style='color: #2c3e50; border-left: 5px solid #3498db; padding-left: 10px; margin-top: 30px;'>🌟 {section_title}</h2>"
     
     if not articles:
         return html + "<p>未能获取到相关新闻，请检查 API 状态。</p>"
@@ -48,64 +49,28 @@ def format_news_section(articles, section_title):
         
         # 组装 HTML
         html += f"""
-        <div style='margin-bottom: 25px; border-bottom: 1px dashed #ddd; padding-bottom: 10px;'>
+        <div style='margin-bottom: 20px; border-bottom: 1px dashed #eee; padding-bottom: 15px;'>
             <div style='font-weight: bold; font-size: 16px; color: #333;'>{i+1}. {title_cn}</div>
-            <p style='font-size: 14px; color: #666; line-height: 1.6;'><b>中文摘要：</b>{desc_cn}</p>
-            <a href='{art['url']}' style='color: #3498db; text-decoration: none; font-size: 13px;'>🔗 阅读原文 (English)</a>
+            <p style='font-size: 14px; color: #666; margin-top: 5px; line-height: 1.5;'><b>简要内容：</b>{desc_cn}</p>
+            <a href='{art['url']}' style='color: #3498db; text-decoration: none; font-size: 13px;'>🔗 查看原文 (English)</a>
         </div>
         """
-        # 控制速度，避免被翻译 API 封锁
+        # 控制频率，防止请求过快
         time.sleep(0.4)
         print(f"已处理 {section_title} 第 {i+1} 条...")
         
     return html
 
 def get_daily_quote():
-    """额外功能：获取每日一句英语（助力雅思学习）"""
+    """获取雅思每日金句（助力子超的语言提升）"""
     try:
+        # 使用励志语录 API
         res = requests.get("https://api.quotable.io/random?tags=inspirational", timeout=5).json()
         en = res['content']
         cn = translate_text(en)
-        return f"<div style='background: #f1f9ff; padding: 15px; border-radius: 10px; margin-bottom: 20px;'><b>💡 雅思每日金句：</b><br><i>{en}</i><br>{cn}</div>"
+        return f"<div style='background: #f1f9ff; padding: 15px; border-radius: 8px; margin-bottom: 20px;'><b>💡 IELTS 每日金句：</b><br><i style='color: #555;'>{en}</i><br><span style='color: #2c3e50;'>{cn}</span></div>"
     except:
         return ""
 
 def main():
     start_time = time.time()
-    
-    # 头部个性化信息
-    header = f"<h1 style='text-align: center; color: #1a73e8;'>早安，子超！</h1>"
-    header += f"<p style='text-align: center; color: #888;'>📅 2026年3月25日 全球资讯准时送达</p>"
-    header += get_daily_quote()
-
-    # 1. 抓取全球热门 (20条)
-    hot_news = get_news_data('general', 20)
-    hot_html = format_news_section(hot_news, "今日全球焦点")
-
-    # 2. 抓取医药健康 (20条)
-    med_news = get_news_data('health', 20)
-    med_html = format_news_section(med_news, "医药健康前沿")
-
-    # 合并推送内容
-    full_content = header + hot_html + med_html
-    
-    # 推送至微信
-    print("📨 正在发送至微信...")
-    push_url = 'http://www.pushplus.plus/send'
-    payload = {
-        "token": PUSHPLUS_TOKEN,
-        "title": "🌍 每日全球 & 医药双重简报",
-        "content": full_content,
-        "template": "html"
-    }
-    
-    try:
-        res = requests.post(push_url, json=payload)
-        print(f"✅ 推送任务完成！响应结果: {res.text}")
-    except Exception as e:
-        print(f"❌ 推送失败: {e}")
-
-    print(f"⏱️ 总耗时: {int(time.time() - start_time)} 秒")
-
-if __name__ == "__main__":
-    main()
