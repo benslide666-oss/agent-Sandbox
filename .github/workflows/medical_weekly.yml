@@ -1,0 +1,24 @@
+name: Weekly Medical Guidelines
+
+on:
+  schedule:
+    # 北京时间 每周一 早上 8:30
+    - cron: '30 0 * * 1'
+  workflow_dispatch:
+
+jobs:
+  run_guideline_push:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.9'
+      - name: Install Dependencies
+        run: pip install requests googletrans==3.1.0a0
+      - name: Run Script
+        env:
+          EMAIL_SENDER: ${{ secrets.EMAIL_SENDER }}
+          EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
+          EMAIL_RECEIVER: ${{ secrets.EMAIL_RECEIVER }}
+        run: python medical_guidelines.py
