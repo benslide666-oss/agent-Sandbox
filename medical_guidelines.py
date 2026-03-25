@@ -71,7 +71,7 @@ def main():
 
     html = f"""<div style="font-family: sans-serif; max-width: 600px; margin: auto; border: 1px solid #eee; padding: 20px; border-radius: 12px;">
         <div style="background: #2c3e50; color: white; padding: 15px; text-align: center; border-radius: 8px;">
-            <h1 style="margin: 0; font-size: 18px;">🩺 全球医学前沿周报 (子超专供)</h1>
+            <h1 style="margin: 0; font-size: 18px;">🩺 全球医学前沿周报 (王浩专供)</h1>
         </div>"""
 
     for i, item in enumerate(all_data):
