@@ -2,7 +2,6 @@ name: Weekly Medical Guidelines
 
 on:
   schedule:
-    # 北京时间 每周一 早上 8:30
     - cron: '30 0 * * 1'
   workflow_dispatch:
 
@@ -21,4 +20,6 @@ jobs:
           EMAIL_SENDER: ${{ secrets.EMAIL_SENDER }}
           EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
           EMAIL_RECEIVER: ${{ secrets.EMAIL_RECEIVER }}
+          # 就是这一行！之前可能漏掉了，导致无法抓取 NewsAPI
+          NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }} 
         run: python medical_guidelines.py
