@@ -24,7 +24,7 @@ def fetch_pubmed_guidelines():
     search_url = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi"
     search_params = {
         "db": "pubmed",
-        "term": "(Practice Guideline[Publication Type]) AND (last 7 days[Filter])",
+        "term": "(Practice Guideline[Publication Type]) AND (last 30 days[Filter])",
         "retmode": "json",
         "retmax": 10
     }
