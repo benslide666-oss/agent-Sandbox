@@ -8,7 +8,7 @@ from email.utils import formatdate
 
 # --- 配置区 ---
 # 确保 PDF 文件在根目录
-PDF_PATH = "威威的GPT单词本(8000词).pdf"
+PDF_PATH = "BDC/威威的GPT单词本(8000词).pdf"
 PROGRESS_FILE = "BDC/progress.txt"
 LAST_WORDS_FILE = "BDC/last_words.txt"
 WORDS_PER_DAY = 50
