@@ -74,7 +74,7 @@ def send_email(content, today_list, review_text):
         return False
 
     msg = MIMEMultipart()
-    msg['From'] = f"单词助手 <{sender}>"
+    msg['From'] = sender
     msg['To'] = receiver
     msg['Subject'] = f"📖 今日50词 ({today_list[0]}...)"
     msg['Date'] = formatdate(localtime=True)
