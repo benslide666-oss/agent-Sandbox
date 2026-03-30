@@ -1,0 +1,36 @@
+name: BDC Daily Vocab
+
+on:
+  schedule:
+    - cron: '0 23 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          
+      - name: Install PyMuPDF
+        run: pip install PyMuPDF==1.23.8
+
+      - name: Run Script
+        env:
+          SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
+          SENDER_PWD: ${{ secrets.SENDER_PWD }}
+          RECEIVER_EMAIL: ${{ secrets.RECEIVER_EMAIL }}
+        run: python BDC/main.py
+
+      - name: Commit Progress
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add BDC/*.txt
+          git diff --quiet && git diff --staged --quiet || (git commit -m "update bdc progress" && git push)
