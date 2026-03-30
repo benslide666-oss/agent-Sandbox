@@ -23,9 +23,9 @@ jobs:
 
       - name: Run Script
         env:
-          SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
-          SENDER_PWD: ${{ secrets.SENDER_PWD }}
-          RECEIVER_EMAIL: ${{ secrets.RECEIVER_EMAIL }}
+          SENDER_EMAIL: ${{ secrets.EMAIL_SENDER }}
+          SENDER_PWD: ${{ secrets.EMAIL_PASSWORD }}
+          RECEIVER_EMAIL: ${{ secrets.EMAIL_RECEIVER }}
         run: python BDC/main.py
 
       - name: Commit Progress
