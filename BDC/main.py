@@ -27,19 +27,20 @@ def extract_content():
     yesterday_words = get_file_content(LAST_WORDS_FILE, "第一天开始，暂无复习内容")
     
     if not os.path.exists(PDF_PATH):
+        print(f"找不到文件: {PDF_PATH}")
         return None
         
     doc = fitz.open(PDF_PATH)
     full_text = ""
-    # 遍历所有页面提取文本
+    # 遍历页面提取文本
     for page in doc:
         full_text += page.get_text("text") + "\n"
     
-    # 核心正则：匹配单词条目。匹配逻辑：单词(英文) + 换行 + "分析词义:"
-    # 使用 re.DOTALL 确保匹配更灵活
-    blocks = re.split(r'\n(?=[a-zA-Z\-]{2,}\n分析词义:)', full_text)
+    # 核心正则优化：允许单词包含字母、点号(.)、短横线(-)和空格
+    # 匹配模式：单词行 + 换行 + "分析词义:"
+    blocks = re.split(r'\n(?=[a-zA-Z\-\. ]{1,}\n分析词义:)', full_text)
     
-    # 过滤掉不含“分析词义”的非单词块（如目录、前言）
+    # 过滤掉不含“分析词义:”的非单词块
     blocks = [b.strip() for b in blocks if "分析词义:" in b]
 
     total_count = len(blocks)
@@ -51,21 +52,20 @@ def extract_content():
     html_content = ""
 
     for b in today_blocks:
-        # 提取单词名称
-        name_match = re.match(r'^([a-zA-Z\-]+)', b)
-        word_name = name_match.group(1) if name_match else "Vocabulary"
-        if name_match:
-            today_word_names.append(word_name)
+        # 提取单词名称（支持 A.M.）
+        lines = b.split('\n')
+        word_name = lines[0].strip()
+        today_word_names.append(word_name)
         
-        # 处理正文：将第一个单词替换为 红色、加粗、大字号 的 HTML
-        # 其余换行替换为 <br>
-        body_without_name = b[len(word_name):].strip().replace('\n', '<br>')
+        # 提取正文内容（除去第一行单词名）
+        body_content = "<br>".join(lines[1:]).strip()
         
+        # HTML 样式：红色、加粗、26px大字号
         html_content += f"""
         <div style='border-bottom:2px solid #eee; padding:20px 0; margin-bottom:10px;'>
-            <span style='color: #e74c3c; font-size: 24px; font-weight: bold;'>{word_name}</span>
+            <span style='color: #e74c3c; font-size: 26px; font-weight: bold;'>{word_name}</span>
             <div style='margin-top: 10px; color: #34495e; font-size: 16px; line-height: 1.6;'>
-                {body_without_name}
+                {body_content}
             </div>
         </div>
         """
@@ -80,7 +80,7 @@ def send_email(content, today_list, review_text):
     msg = MIMEMultipart()
     msg['From'] = sender
     msg['To'] = receiver
-    msg['Subject'] = f"🔥 今日50词突破：{today_list[0]}..."
+    msg['Subject'] = f"🔥 今日单词攻克：{today_list[0]} 等50词"
     msg['Date'] = formatdate(localtime=True)
 
     html_template = f"""
@@ -108,7 +108,7 @@ def send_email(content, today_list, review_text):
         server.quit()
         return True
     except Exception as e:
-        print(f"❌ 发送失败: {e}")
+        print(f"发送失败: {e}")
         return False
 
 if __name__ == "__main__":
@@ -116,9 +116,9 @@ if __name__ == "__main__":
     if result:
         html_body, today_names, review, next_idx, total = result
         if not today_names:
-            print("🎉 恭喜！全书已学完。")
+            print("已学完所有单词！")
         else:
             if send_email(html_body, today_names, review):
                 save_file_content(PROGRESS_FILE, next_idx)
                 save_file_content(LAST_WORDS_FILE, "、".join(today_names))
-                print(f"✅ 成功！进度: {next_idx}/{total}")
+                print(f"成功！从第 {next_idx-50} 到 {next_idx} 个单词已发送")
