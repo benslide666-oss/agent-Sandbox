@@ -1,13 +1,14 @@
+cat << 'EOF' > main.py
 import os
 import smtplib
 import fitz  # PyMuPDF
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
+from email.utils import formatdate # 用于生成标准时间戳防拦截
 
-# ================= 配置参数 =================
 PDF_FILE = "威威的GPT单词本(8000词).pdf"
 PROGRESS_FILE = "progress.txt"
-PAGES_PER_DAY = 3 # 每天推送的页数，可根据单词密度自行修改
+PAGES_PER_DAY = 3
 
 def get_progress():
     if os.path.exists(PROGRESS_FILE):
@@ -24,12 +25,9 @@ def extract_text_from_pdf(start_page, num_pages):
     total_pages = len(doc)
     end_page = min(start_page + num_pages, total_pages)
     
-    # 简单的 HTML 邮件排版
     content = f"<h3>📚 今日学习进度：第 {start_page + 1} 页 至 第 {end_page} 页</h3><hr>"
-    
     for i in range(start_page, end_page):
         page = doc.load_page(i)
-        # 提取文本并将换行符替换为 HTML 的 <br>
         text = page.get_text("text").replace('\n', '<br>')
         content += f"<h4>--- 第 {i + 1} 页 ---</h4><p style='line-height: 1.6;'>{text}</p><br>"
         
@@ -40,22 +38,37 @@ def send_email(content):
     password = os.environ.get("SENDER_PWD")
     receiver = os.environ.get("RECEIVER_EMAIL")
 
+    # 1. 拦截空变量（防止本地运行报错）
+    if not sender or not password or not receiver:
+        print("❌ 错误：环境变量为空！请检查 Secrets 配置或本地 export。")
+        return False
+
     msg = MIMEMultipart()
     msg['From'] = sender
     msg['To'] = receiver
     msg['Subject'] = "🚀 你的每日 GPT 单词本推送"
+    # 2. 补全时间戳，伪装成正常客户端发信，防止被踢
+    msg['Date'] = formatdate(localtime=True)
 
     msg.attach(MIMEText(content, 'html', 'utf-8'))
 
-    # QQ 邮箱的 SMTP 服务器和端口
     try:
-        server = smtplib.SMTP_SSL("smtp.qq.com", 465)
+        print("-> 正在连接 QQ 邮箱服务器...")
+        server = smtplib.SMTP_SSL("smtp.qq.com", 465, timeout=10)
+        # 3. 开启 debug 模式，如果再失败，能看到具体是哪一步被拒绝
+        server.set_debuglevel(1) 
+        
+        print("-> 连接成功，准备验证授权码...")
         server.login(sender, password)
+        
+        print("-> 验证通过，正在发送数据...")
         server.sendmail(sender, [receiver], msg.as_string())
         server.quit()
-        print("邮件发送成功！")
+        print("✅ 邮件发送成功！")
+        return True
     except Exception as e:
-        print(f"邮件发送失败: {e}")
+        print(f"❌ 邮件发送失败: {e}")
+        return False
 
 if __name__ == "__main__":
     current_page = get_progress()
@@ -66,6 +79,10 @@ if __name__ == "__main__":
     if current_page >= total_pages:
         print("🎉 恭喜！整本书已经推送完毕。")
     else:
-        send_email(daily_content)
-        update_progress(next_page)
-        print(f"进度已更新至第 {next_page} 页。")
+        # 4. 逻辑修复：只有邮件确实发送成功了，才把进度写入文件
+        if send_email(daily_content):
+            update_progress(next_page)
+            print(f"进度已安全更新至第 {next_page} 页。")
+        else:
+            print("⚠️ 邮件未发出，进度保持不变。")
+EOF
