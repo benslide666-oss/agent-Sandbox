@@ -2,7 +2,7 @@ name: Monthly Duty Report
 
 on:
   schedule:
-    - cron: '0 23 28-31 * *' # 这里的逻辑：每月最后一天北京时间早上7点尝试运行
+    - cron: '0 23 * * *'  # 每天UTC 23:00 尝试运行（北京时间早上7点）
   workflow_dispatch:
 
 jobs:
@@ -13,30 +13,29 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       
-      # 只有当今天是每月 1 号时才执行（解决 UTC 时间差问题）
-      - name: Check if it is the 1st of the month
+      # 只有每月1号运行发邮件逻辑
+      - name: Check Date
         id: check_date
         run: |
           if [ "$(date +%d)" = "01" ]; then
-            echo "run=true" >> $GITHUB_OUTPUT
+            echo "should_run=true" >> $GITHUB_OUTPUT
           else
-            echo "run=false" >> $GITHUB_OUTPUT
+            echo "should_run=false" >> $GITHUB_OUTPUT
           fi
 
       - name: Set up Python
-        if: steps.check_date.outputs.run == 'true' || github.event_name == 'workflow_dispatch'
+        if: steps.check_date.outputs.should_run == 'true' || github.event_name == 'workflow_dispatch'
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
           
       - name: Install dependencies
-        if: steps.check_date.outputs.run == 'true' || github.event_name == 'workflow_dispatch'
+        if: steps.check_date.outputs.should_run == 'true' || github.event_name == 'workflow_dispatch'
         run: pip install pandas openpyxl
         
       - name: Run duty script
-        if: steps.check_date.outputs.run == 'true' || github.event_name == 'workflow_dispatch'
+        if: steps.check_date.outputs.should_run == 'true' || github.event_name == 'workflow_dispatch'
         env:
-          # 直接对接你已有的背单词项目 Secrets
           SENDER_EMAIL: ${{ secrets.EMAIL_SENDER }}
           SENDER_PWD: ${{ secrets.EMAIL_PASSWORD }}
           RECEIVER_EMAIL: ${{ secrets.EMAIL_RECEIVER }}
