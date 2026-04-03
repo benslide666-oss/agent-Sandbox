@@ -1,50 +1,50 @@
-a: 
-a.: 
-a.m.: 
-abacus: 
-abalone: 
-abandon: 1.
-abandonment: 
-abase: 
-abash: 
-abask: 
-abatement: 
-abbess: 
-abbey: 
-abbot: 
-abbreviate: 
-abide: 
-abigail: 
-ability: 
-able: 
-abnormal: 
-abnormally: 
-aboard: 
-abolish: 
-小故事: 
-about: 
-abroad: 
-abruptly: ：
-absence: ：
-absent: 
-absolute: 
-absolutely: 
-absorb: 
-abstract: 
-absurd: 
-abundance: 
-abundant: 
-abuse: 
-academic: 
-accelerate: 
-acceleration: 
-accent: 
-accept: 
-acceptable: 
-acceptance: 
-access: ：
-accessary: ：
-accessory: ：
-accidental: :
-accommodate: 
-accompany: 
+accomplish: 
+accordance: 
+according: 
+account: 
+accountable: 
+accountancy: 
+accountant: 
+accrue: 
+accumulate: ：
+accuracy: 
+accurate: 
+accusation: :
+accuse: 
+accustom: 
+accustomed: 
+ache: 
+achieve: 
+achievement: 
+acknowledge: 
+acquaint: 
+acquaintance: 
+acquire: 
+acquisition: 
+acre: 
+across: 
+act: 
+action: 
+activate: 
+activity: 
+actor: 
+actress: 
+actual: 
+actually: 
+acute: 
+acutely: 
+adapt: 
+adaptation: 
+addict: 
+addicted: 
+addiction: 
+addition: 
+additional: :
+address: 
+adelaide: ：
+adequate: 
+adhere: 
+adjacent: 
+adjective: 
+adjust: 
+adjustable: 
