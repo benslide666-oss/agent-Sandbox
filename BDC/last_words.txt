@@ -1,50 +1,50 @@
-adjustment: 
-administration: 
-admirable: 
-admiration: 
-admire: 
-admission: 
-admit: 
-adolescence: 
-adolescent: 
-adopt: 
-adoption: 
-adoptive: 
-adore: 
-adult: 
-advance: 
-advanced: 
-advancement: 
-adverb: 
-adverse: 
-adversely: 
-adversity: 
-advertise: 
-advertisement: 
-advice: 
-advisable: 
-advise: :
-advisory: 
-advocator: ：
-aerial: :
-aeroplane: 
-aerospace: 
-affair: 
-affect: 
-affection: ：
-affectionate: ：
-affirm: 
-affirmation: 
-afflict: 
-afghanistan: 
-afraid: 
-africa: 
-african: 
-after: 
-afternoon: 
-afterward: 
-again: ：
-age: ：
-agency: 
-agenda: 
-agent: 
+aggression: 
+aggressive: 
+agitation: 
+ago: 
+agonize: 
+agony: :
+agreeable: 
+agreement: 
+agricultural: 
+agriculture: 
+ahead: 
+aid: 
+aids: 
+aim: 
+air-conditioning: 
+aircraft: 
+airline: 
+airmail: 
+airplane: 
+airport: 
+airspace: 
+alabama: 
+alarm: 
+alas: 
+alaska: 
+albany: 
+album: 
+alcohol: 
+alcoholic: 
+alert: 
+algebra: 
+alien: 
+alignment: 
+all: 
+allah: 
+allege: 
+allegedly: 
+allergic: 
+alleviate: 
+alley: ：
+alliance: 
+allow: 
+allowance: 
+alloy: 
+ally: 
+almost: :
+alone: 
+alongside: 
+aloud: 
+alphabetical: 
