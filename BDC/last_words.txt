@@ -1,50 +1,50 @@
-accomplish: 
-accordance: 
-according: 
-account: 
-accountable: 
-accountancy: 
-accountant: 
-accrue: 
-accumulate: ：
-accuracy: 
-accurate: 
-accusation: :
-accuse: 
-accustom: 
-accustomed: 
-ache: 
-achieve: 
-achievement: 
-acknowledge: 
-acquaint: 
-acquaintance: 
-acquire: 
-acquisition: 
-acre: 
-across: 
-act: 
-action: 
-activate: 
-activity: 
-actor: 
-actress: 
-actual: 
-actually: 
-acute: 
-acutely: 
-adapt: 
-adaptation: 
-addict: 
-addicted: 
-addiction: 
-addition: 
-additional: :
-address: 
-adelaide: ：
-adequate: 
-adhere: 
-adjacent: 
-adjective: 
-adjust: 
-adjustable: 
+adjustment: 
+administration: 
+admirable: 
+admiration: 
+admire: 
+admission: 
+admit: 
+adolescence: 
+adolescent: 
+adopt: 
+adoption: 
+adoptive: 
+adore: 
+adult: 
+advance: 
+advanced: 
+advancement: 
+adverb: 
+adverse: 
+adversely: 
+adversity: 
+advertise: 
+advertisement: 
+advice: 
+advisable: 
+advise: :
+advisory: 
+advocator: ：
+aerial: :
+aeroplane: 
+aerospace: 
+affair: 
+affect: 
+affection: ：
+affectionate: ：
+affirm: 
+affirmation: 
+afflict: 
+afghanistan: 
+afraid: 
+africa: 
+african: 
+after: 
+afternoon: 
+afterward: 
+again: ：
+age: ：
+agency: 
+agenda: 
+agent: 
