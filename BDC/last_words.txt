@@ -1,50 +1,50 @@
-aggression: 
-aggressive: 
-agitation: 
-ago: 
-agonize: 
-agony: :
-agreeable: 
-agreement: 
-agricultural: 
-agriculture: 
-ahead: 
-aid: 
-aids: 
-aim: 
-air-conditioning: 
-aircraft: 
-airline: 
-airmail: 
-airplane: 
-airport: 
-airspace: 
-alabama: 
-alarm: 
-alas: 
-alaska: 
-albany: 
-album: 
-alcohol: 
-alcoholic: 
-alert: 
-algebra: 
-alien: 
-alignment: 
-all: 
-allah: 
-allege: 
-allegedly: 
-allergic: 
-alleviate: 
-alley: ：
-alliance: 
-allow: 
-allowance: 
-alloy: 
-ally: 
-almost: :
-alone: 
-alongside: 
-aloud: 
-alphabetical: 
+alps: 
+already: 
+alteration: 
+alternatively: 
+although: 
+altitude: 
+altogether: 
+aluminium: 
+aluminum: 
+aluminumal: 
+always: 
+am: 
+amateur: 
+amaze: 
+amazing: 
+ambassador: 
+ambient: 
+ambiguous: 
+ambition: ：
+ambitious: 
+ambulance: 
+amend: ：
+america: ：
+americana: 
+americanisation: 
+americanism: 
+amid: ：
+ammunition: 
+among: 
+amongst: 
+amount: 
+ampere: 
+ample: 
+amplify: 
+amplitude: 
+amuse: :
+amusement: 
+amusing: 
+amy: 
+analogous: 
+analogue: 
+analogy: 
+analyse: 
+analytical: 
+analyze: 
+anc: 
+ancestor: 
+anchor: 
+ancient: ：
+and: 
