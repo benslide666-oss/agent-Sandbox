@@ -1,50 +1,50 @@
-appraisal: 
-appreciable: 
-appreciation: 
-appreciative: 
-appropriation: 
-approval: :
-approve: 
-approximate: 
-approximately: 
-april: 
-apron: 
-apt: :
-arab: 
-arabia: 
-arabic: ：
-arch: 
-architect: 
-archive: 
-arctic: 
-are: :
-argue: 
-argument: :
-arise: 
-arithmetic: 
-arm: 
-armchair: 
-armor: 
-armstrong: 
-army: 
-around: ：
-arouse: 
-arrange: :
-arrangement: 
-array: 
-arrest: 
-arrive: ：
-arrogant: 
-arrow: 
-artery: 
-artificial: 
-artillery: 
-artist: 
-artistic: 
-as: 
-ascend: ：
-ascertain: 
-ash: 
-ashore: 
-asia: 
-asian: 
+aside: 
+ask: 
+asleep: 
+aspect: 
+aspiration: 
+aspirational: :
+ass: 
+assassinate: 
+assassination: 
+assembly: 
+assert: 
+assertive: 
+assess: 
+asset: 
+assign: 
+assignment: 
+assimilate: 
+assimilation: 
+assist: 
+assistance: 
+assistant: 
+associate: 
+association: 
+assume: 
+assumption: 
+astonish: 
+astonishment: 
+astronaut: 
+astronomer: 
+astronomical: 
+astronomy: 
+astrophysics: :
+at: 
+athenian: 
+athens: 
+athlete: 
+athletic: 
+athletics: 
+atlanta: 
+atlantic: 
+atlas: 
+atm: 
+atmosphere: 
+atom: 
+atomic: :
+attach: ：
+attachment: 
+attack: 
+attempt: :
+attend: 
