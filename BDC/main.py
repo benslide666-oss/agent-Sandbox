@@ -1,4 +1,4 @@
-import os, smtplib, re
+import os, smtplib, re, sys
 import eng_to_ipa as ipa_tool
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
@@ -16,6 +16,7 @@ def load_words():
     for f_name in files:
         with open(os.path.join(DCB_DIR, f_name), "r", encoding="utf-8") as f:
             raw_content = f.read()
+            # 兼容不同系统的换行符分割
             blocks = re.split(r'\n(?=## )|(?<=---)\n(?=## )', raw_content)
             for b in blocks:
                 b = b.strip().replace("---", "")
@@ -31,17 +32,20 @@ def get_motivational_msg(percent):
 if __name__ == "__main__":
     all_words = load_words()
     total_count = len(all_words)
-    if not all_words: print("❌ 未提取到单词"); exit(1)
+    if not all_words: 
+        print("❌ 未提取到单词，请检查 BDC/DCB 目录下是否有 .md 文件")
+        sys.exit(1)
 
     try:
         with open(PROGRESS_FILE, "r") as f: curr = int(f.read().strip())
     except: curr = 0
     
-    percent = round((curr / total_count) * 100, 1)
-    days_left = (total_count - curr) // WORDS_PER_DAY
+    # 进度计算
+    percent = round((curr / total_count) * 100, 1) if total_count > 0 else 0
+    days_left = (total_count - curr) // WORDS_PER_DAY if total_count > curr else 0
     moto_msg = get_motivational_msg(percent)
 
-    # 1. 昨日复习
+    # 1. 昨日复习数据准备
     review_html = ""
     if os.path.exists(LAST_WORDS_FILE):
         with open(LAST_WORDS_FILE, "r", encoding="utf-8") as f:
@@ -52,6 +56,10 @@ if __name__ == "__main__":
 
     # 2. 提取今日 50 词
     today = all_words[curr : curr + WORDS_PER_DAY]
+    if not today:
+        print("🎉 所有单词已背完！")
+        sys.exit(0)
+
     today_review_data = [] 
     html_blocks = []
     sub_headers = ["分析词义", "列举例句", "词根分析", "词缀分析", "发展历史和文化背景", "单词变形", "记忆辅助", "小故事"]
@@ -76,7 +84,7 @@ if __name__ == "__main__":
                     line = f"<div style='margin-bottom:12px; font-size:18px;'>{line}</div>"
                 content_body.append(line)
 
-        # 核心：音标转换
+        # 音标转换
         phonetic = ipa_tool.convert(title)
         if phonetic.endswith('*'): phonetic = phonetic[:-1] 
         
@@ -87,7 +95,7 @@ if __name__ == "__main__":
                 break
         today_review_data.append(f"{title}: {meaning}")
 
-        # HTML 块包含音标行
+        # HTML 块构建
         block_html = f"""
         <div style='padding-top: 35px; margin-top: 35px; border-top: 3px solid #e74c3c;'>
             <div style='color: #e74c3c; font-size: 42px; font-weight: bold;'>{title}</div>
@@ -99,7 +107,15 @@ if __name__ == "__main__":
         """
         html_blocks.append(block_html)
     
-    sender, pwd, rcvr = os.environ.get("SENDER_EMAIL"), os.environ.get("SENDER_PWD"), os.environ.get("RECEIVER_EMAIL")
+    # 邮件发送逻辑
+    sender = os.environ.get("SENDER_EMAIL")
+    pwd = os.environ.get("SENDER_PWD")
+    rcvr = os.environ.get("RECEIVER_EMAIL")
+    
+    if not all([sender, pwd, rcvr]):
+        print("❌ 环境变量未设置完整")
+        sys.exit(1)
+
     msg = MIMEMultipart()
     msg['Subject'] = f"📈 {percent}% | 单词突破：{today_review_data[0].split(':')[0]} 等50词"
     msg['From'], msg['To'] = sender, rcvr
@@ -125,10 +141,15 @@ if __name__ == "__main__":
     msg.attach(MIMEText(email_body, 'html', 'utf-8'))
     
     try:
-        s = smtplib.SMTP_SSL("smtp.qq.com", 465)
-        s.login(sender, pwd); s.sendmail(sender, [rcvr], msg.as_string()); s.quit()
+        s = smtplib.SMTP_SSL("smtp.qq.com", 465, timeout=30)
+        s.login(sender, pwd)
+        s.sendmail(sender, [rcvr], msg.as_string())
+        s.quit()
+        
+        # 更新进度文件
         with open(PROGRESS_FILE, "w") as f: f.write(str(curr + len(today)))
         with open(LAST_WORDS_FILE, "w", encoding="utf-8") as f: f.write("\n".join(today_review_data))
-        print("✅ 音标版发送成功！")
+        print("✅ 单词发送成功！进度已更新。")
     except Exception as e:
-        print(f"❌ 失败: {e}")
+        print(f"❌ 邮件发送失败: {e}")
+        sys.exit(1)
