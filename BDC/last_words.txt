@@ -1,50 +1,50 @@
-alps: 
-already: 
-alteration: 
-alternatively: 
-although: 
-altitude: 
-altogether: 
-aluminium: 
-aluminum: 
-aluminumal: 
-always: 
-am: 
-amateur: 
-amaze: 
-amazing: 
-ambassador: 
-ambient: 
-ambiguous: 
-ambition: ：
-ambitious: 
-ambulance: 
-amend: ：
-america: ：
-americana: 
-americanisation: 
-americanism: 
-amid: ：
-ammunition: 
-among: 
-amongst: 
-amount: 
-ampere: 
-ample: 
-amplify: 
-amplitude: 
-amuse: :
-amusement: 
-amusing: 
-amy: 
-analogous: 
-analogue: 
-analogy: 
-analyse: 
-analytical: 
-analyze: 
-anc: 
-ancestor: 
-anchor: 
-ancient: ：
-and: 
+andromeda: 
+anecdote: 
+anger: 
+angle: 
+anglo: 
+anglo-saxon: 
+animal: 
+ankle: 【】
+annie: 
+anniversary: :
+announce: 
+announcement: 
+announcer: 
+annual: 
+annually: 
+anode: 
+anonymous: :
+another: 
+answer: 
+ant: 
+antarctic: 
+antenna: 
+antique: 
+anxiety: 
+anxious: 
+any: 
+anyhow: 
+anything: 
+anyway: ：
+anywhere: 
+apart: 
+apathy: 
+apologize: 
+apology: 
+apparatus: ：
+appealing: :
+appear: 
+appearance: 
+appease: 
+appendix: 
+appetite: 
+applaud: 
+applause: 
+apple: 
+appliance: 
+applicable: 
+applicant: 
+application: :
+appoint: 
+appointment: 
