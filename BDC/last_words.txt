@@ -1,50 +1,50 @@
-andromeda: 
-anecdote: 
-anger: 
-angle: 
-anglo: 
-anglo-saxon: 
-animal: 
-ankle: 【】
-annie: 
-anniversary: :
-announce: 
-announcement: 
-announcer: 
-annual: 
-annually: 
-anode: 
-anonymous: :
-another: 
-answer: 
-ant: 
-antarctic: 
-antenna: 
-antique: 
-anxiety: 
-anxious: 
-any: 
-anyhow: 
-anything: 
-anyway: ：
-anywhere: 
-apart: 
-apathy: 
-apologize: 
-apology: 
-apparatus: ：
-appealing: :
-appear: 
-appearance: 
-appease: 
-appendix: 
-appetite: 
-applaud: 
-applause: 
-apple: 
-appliance: 
-applicable: 
-applicant: 
-application: :
-appoint: 
-appointment: 
+appraisal: 
+appreciable: 
+appreciation: 
+appreciative: 
+appropriation: 
+approval: :
+approve: 
+approximate: 
+approximately: 
+april: 
+apron: 
+apt: :
+arab: 
+arabia: 
+arabic: ：
+arch: 
+architect: 
+archive: 
+arctic: 
+are: :
+argue: 
+argument: :
+arise: 
+arithmetic: 
+arm: 
+armchair: 
+armor: 
+armstrong: 
+army: 
+around: ：
+arouse: 
+arrange: :
+arrangement: 
+array: 
+arrest: 
+arrive: ：
+arrogant: 
+arrow: 
+artery: 
+artificial: 
+artillery: 
+artist: 
+artistic: 
+as: 
+ascend: ：
+ascertain: 
+ash: 
+ashore: 
+asia: 
+asian: 
