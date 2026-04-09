@@ -1,50 +1,50 @@
-aside: 
-ask: 
-asleep: 
-aspect: 
-aspiration: 
-aspirational: :
-ass: 
-assassinate: 
-assassination: 
-assembly: 
-assert: 
-assertive: 
-assess: 
-asset: 
-assign: 
-assignment: 
-assimilate: 
-assimilation: 
-assist: 
-assistance: 
-assistant: 
-associate: 
-association: 
-assume: 
-assumption: 
-astonish: 
-astonishment: 
-astronaut: 
-astronomer: 
-astronomical: 
-astronomy: 
-astrophysics: :
-at: 
-athenian: 
-athens: 
-athlete: 
-athletic: 
-athletics: 
-atlanta: 
-atlantic: 
-atlas: 
-atm: 
-atmosphere: 
-atom: 
-atomic: :
-attach: ：
-attachment: 
-attack: 
-attempt: :
-attend: 
+attendance: 
+attendant: 
+记忆辅助: 
+attentive: 
+attentively: 
+atticus: 
+attitude: 
+attorney: 
+attract: 
+attraction: 
+attractive: 
+auction: 
+audience: :
+august: 
+aunt: :
+aural: 
+australia: 
+australian: 
+austrian: 
+authentic: 
+author: 
+authorities: 
+authority: 
+authorize: 
+auto: 
+automate: 
+automatic: :
+列举例句: ###
+automation: 
+automobile: 
+autonomous: 
+autumn: 
+auxiliary: 
+avail: 
+availability: 
+avenue: 
+average: 
+avert: 
+aviate: 
+aviation: 
+avoid: 
+awake: 
+aware: 
+awareness: 
+away: 
+awesome: 
+awful: 
+awfully: :
+axial: 
+axis: 
