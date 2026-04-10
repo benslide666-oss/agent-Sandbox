@@ -1,50 +1,50 @@
-attendance: 
-attendant: 
-记忆辅助: 
-attentive: 
-attentively: 
-atticus: 
-attitude: 
-attorney: 
-attract: 
-attraction: 
-attractive: 
-auction: 
-audience: :
-august: 
-aunt: :
-aural: 
-australia: 
-australian: 
-austrian: 
-authentic: 
-author: 
-authorities: 
-authority: 
-authorize: 
-auto: 
-automate: 
-automatic: :
-列举例句: ###
-automation: 
-automobile: 
-autonomous: 
-autumn: 
-auxiliary: 
-avail: 
-availability: 
-avenue: 
-average: 
-avert: 
-aviate: 
-aviation: 
-avoid: 
-awake: 
-aware: 
-awareness: 
-away: 
-awesome: 
-awful: 
-awfully: :
-axial: 
-axis: 
+b-school: 
+ba: 
+baby: 
+bachelor: 
+backache: 
+background: :
+backslide: 
+backup: 
+backward: 
+bacon: 
+bacteria: 
+bacterium: 
+bad: 
+badge: 
+badly: 
+badminton: 
+baffle: ：
+bag: 
+bait: 
+bakery: 
+balance: ：
+balcony: 
+ball: 
+ballet: 
+balloon: 
+ballpoint: ：Ballpoint 是一个由两个词组成的复合词，Ball 意为“球”，Poin
+bamboo: 
+ban: 
+banana: 
+band: 
+bandit: :
+bang: 
+banker: 
+bankrupt: ：
+banner: 
+banquet: 
+bantu: ：
+barbecue: 
+barbershop: 
+barely: 
+bargain: 
+barometer: 
+baron: 
+barrel: 
+barren: 
+barricade: 
+base: 
+baseball: 
+basic: 
+basin: 
