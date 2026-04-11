@@ -1,50 +1,50 @@
-b-school: 
-ba: 
-baby: 
-bachelor: 
-backache: 
-background: :
-backslide: 
-backup: 
-backward: 
-bacon: 
-bacteria: 
-bacterium: 
-bad: 
-badge: 
-badly: 
-badminton: 
-baffle: ：
-bag: 
-bait: 
-bakery: 
-balance: ：
-balcony: 
-ball: 
-ballet: 
-balloon: 
-ballpoint: ：Ballpoint 是一个由两个词组成的复合词，Ball 意为“球”，Poin
-bamboo: 
-ban: 
-banana: 
-band: 
-bandit: :
-bang: 
-banker: 
-bankrupt: ：
-banner: 
-banquet: 
-bantu: ：
-barbecue: 
-barbershop: 
-barely: 
-bargain: 
-barometer: 
-baron: 
-barrel: 
-barren: 
-barricade: 
-base: 
-baseball: 
-basic: 
-basin: 
+basis: :
+basket: 
+basketball: 
+bat: ：
+batch: 
+bath: 
+bathe: 
+bathrobe: 
+bathroom: 
+bathtub: 
+batter: 
+battery: 
+battle: 
+battleground: 
+bay: 
+bazaar: 
+be: 
+beach: 
+bead: ：
+beam: 
+bean: 
+beancurd: 
+bear: 
+beard: 
+bearing: 
+beast: 
+beat: ：
+beautiful: ：
+beauty: 
+because: 
+becky: 
+become: 
+bed: 
+bedclothes: 
+beddings: 
+bedroom: 
+bee: 
+beef: 
+beehive: 
+beer: 
+beetle: 
+before: 
+beg: 
+begin: 
+beginner: 
+beginning: 
+behalf: 
+behave: 
+behavior: 
+behaviour: 
