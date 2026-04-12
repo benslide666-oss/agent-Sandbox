@@ -1,50 +1,50 @@
-basis: :
-basket: 
-basketball: 
-bat: ：
-batch: 
-bath: 
-bathe: 
-bathrobe: 
-bathroom: 
-bathtub: 
-batter: 
-battery: 
-battle: 
-battleground: 
-bay: 
-bazaar: 
-be: 
-beach: 
-bead: ：
-beam: 
-bean: 
-beancurd: 
-bear: 
-beard: 
-bearing: 
-beast: 
-beat: ：
-beautiful: ：
-beauty: 
-because: 
-becky: 
-become: 
-bed: 
-bedclothes: 
-beddings: 
-bedroom: 
-bee: 
-beef: 
-beehive: 
-beer: 
-beetle: 
-before: 
-beg: 
-begin: 
-beginner: 
-beginning: 
-behalf: 
-behave: 
-behavior: 
-behaviour: 
+behind: 
+being: ：
+belgium: 
+belief: 
+believe: ：
+bell: 
+belly: 
+belong: 
+beloved: 
+below: 
+bench: 
+bend: :
+beneficial: 
+benefit: 
+bering: 
+berlin: 
+berry: 
+bert: :
+beside: 
+besides: 
+best: 
+bestow: 
+bet: 
+betray: :
+better: 
+beverage: 
+beware: 
+bewilder: :
+beyond: 
+bias: 【】
+bible: ：
+bibliography: 
+bicycle: 
+bid: 
+big: 
+bike: 
+bill: 
+billy: 
+bind: 
+biochemistry: 
+biodiversity: :
+biography: 
+biological: ：
+biology: 
+biotechnology: 
+bipartisan: 
+bird: 
+birdcage: ：
+birth: 
+birthday: 
