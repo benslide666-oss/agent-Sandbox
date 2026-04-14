@@ -1,50 +1,50 @@
-behind: 
-being: ：
-belgium: 
-belief: 
-believe: ：
-bell: 
-belly: 
-belong: 
-beloved: 
-below: 
-bench: 
-bend: :
-beneficial: 
-benefit: 
-bering: 
-berlin: 
-berry: 
-bert: :
-beside: 
-besides: 
-best: 
-bestow: 
-bet: 
-betray: :
-better: 
-beverage: 
-beware: 
-bewilder: :
-beyond: 
-bias: 【】
-bible: ：
-bibliography: 
-bicycle: 
-bid: 
-big: 
-bike: 
-bill: 
-billy: 
-bind: 
-biochemistry: 
-biodiversity: :
-biography: 
-biological: ：
-biology: 
-biotechnology: 
-bipartisan: 
-bird: 
-birdcage: ：
-birth: 
-birthday: 
+birthplace: 
+biscuit: 
+bishop: 
+bit: 
+bite: :
+bitter: 
+bitterly: 
+bitterness: 
+bizarre: 
+blackboard: :
+blame: 
+blank: 
+blanket: 
+blast: 
+blaze: 
+bleach: 
+bleak: 
+bleed: ：
+blend: 
+bless: ：
+blind: 
+blink: :
+block: 
+blood: 
+bloom: 
+blossom: 
+blouse: 
+blue: 
+blueprint: 
+blunt: 
+blur: 
+blush: 
+board: 
+boast: 
+boat: ：
+body: 
+bogus: 
+boil: 
+boiler: 
+bold: 
+bolt: 1.
+bomb: 
+bond: 
+bone: ：
+book: 
+bookcase: 
+booklet: 
+bookmark: ：
+bookshelf: 
+bookshop: 
