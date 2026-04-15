@@ -1,50 +1,50 @@
-birthplace: 
-biscuit: 
-bishop: 
-bit: 
-bite: :
-bitter: 
-bitterly: 
-bitterness: 
-bizarre: 
-blackboard: :
-blame: 
-blank: 
-blanket: 
-blast: 
-blaze: 
-bleach: 
-bleak: 
-bleed: ：
-blend: 
-bless: ：
-blind: 
-blink: :
-block: 
-blood: 
-bloom: 
-blossom: 
-blouse: 
-blue: 
-blueprint: 
-blunt: 
-blur: 
-blush: 
-board: 
-boast: 
-boat: ：
-body: 
-bogus: 
-boil: 
-boiler: 
-bold: 
-bolt: 1.
-bomb: 
-bond: 
-bone: ：
-book: 
-bookcase: 
-booklet: 
-bookmark: ：
-bookshelf: 
-bookshop: 
+bookstore: 
+boom: 
+boot: 
+booth: 
+border: 
+bore: 
+bored: 
+borrow: 
+boston: 
+botanical: 
+botany: 
+both: ：
+bother: :
+bottle: ：
+bough: ：
+bound: 
+bourgeois: 
+bow: 
+bowel: 
+bowl: 
+box: 
+boy: 
+boycott: 
+braille: 
+brain: 
+brake: 
+branch: ：'Branch' 通常用于表示结构的一部分，如树枝(tree branch)、
+brand: 
+brandy: 
+brass: 
+brave: 
+记忆辅助: 
+brazil: 
+brazilian: :
+breach: 
+bread: 
+breadth: 
+break: 
+breakdown: 
+breakfast: 
+breakthrough: ** **
+breast: 
+breath: 
+breed: 
+breeze: 
+breezy: 
+brewery: ：
+brian: 
+bribe: 
+brick: ：
