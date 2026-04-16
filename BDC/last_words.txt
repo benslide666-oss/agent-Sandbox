@@ -1,50 +1,50 @@
-bookstore: 
-boom: 
-boot: 
-booth: 
-border: 
-bore: 
-bored: 
-borrow: 
-boston: 
-botanical: 
-botany: 
-both: ：
-bother: :
-bottle: ：
-bough: ：
-bound: 
-bourgeois: 
-bow: 
-bowel: 
-bowl: 
-box: 
-boy: 
-boycott: 
-braille: 
-brain: 
-brake: 
-branch: ：'Branch' 通常用于表示结构的一部分，如树枝(tree branch)、
-brand: 
-brandy: 
-brass: 
-brave: 
-记忆辅助: 
-brazil: 
-brazilian: :
-breach: 
-bread: 
-breadth: 
-break: 
-breakdown: 
-breakfast: 
-breakthrough: ** **
-breast: 
-breath: 
-breed: 
-breeze: 
-breezy: 
-brewery: ：
-brian: 
-bribe: 
-brick: ：
+bride: 
+bridegroom: 
+bridge: 
+bridle: 
+brighten: 
+brilliant: 
+brim: 
+bring: 
+bristle: 
+brittle: 
+broadcast: :
+broaden: 
+brochure: 
+broken: 
+bronze: 
+brood: 
+brook: 
+broom: 
+brown: 
+bruise: 
+brunch: 
+brush: 
+brutal: 
+bubble: :
+buck: 
+bucket: 
+bud: 
+buddha: 
+buddhism: 
+budget: ：
+buffalo: :
+buffet: 
+buford: 
+bug: 
+bugle: 
+build: 
+building: 
+bulb: 
+bulletin: 
+bully: 
+bump: 
+bun: 
+小故事: ##
+burden: 
+bureau: :
+bureaucracy: ：Bureaucracy 是一个英语名词，指的是一个系统，特点是一种严格遵守规定
+burglar: 
+burgundy: 
+burial: 
+burma: 
