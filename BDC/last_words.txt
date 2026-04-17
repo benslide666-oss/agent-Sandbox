@@ -1,50 +1,50 @@
-bride: 
-bridegroom: 
-bridge: 
-bridle: 
-brighten: 
-brilliant: 
-brim: 
-bring: 
-bristle: 
-brittle: 
-broadcast: :
-broaden: 
-brochure: 
-broken: 
-bronze: 
-brood: 
-brook: 
-broom: 
-brown: 
-bruise: 
-brunch: 
-brush: 
-brutal: 
-bubble: :
-buck: 
-bucket: 
-bud: 
-buddha: 
-buddhism: 
-budget: ：
-buffalo: :
-buffet: 
-buford: 
-bug: 
-bugle: 
-build: 
-building: 
-bulb: 
-bulletin: 
-bully: 
-bump: 
-bun: 
-小故事: ##
-burden: 
-bureau: :
-bureaucracy: ：Bureaucracy 是一个英语名词，指的是一个系统，特点是一种严格遵守规定
-burglar: 
-burgundy: 
-burial: 
-burma: 
+burn: :
+burner: 
+bury: 
+bus: 
+bush: ：
+bushel: 
+business: :
+businesswoman: 
+bust: 
+busy: 
+but: 
+butcher: 
+butt: 
+butter: ：
+button: 
+buy: 
+by: 
+bye: 
+: 
+cabinet: 
+cable: 
+cad: 
+cafe: 
+cage: 
+caius: ：
+cake: 
+calcium: 
+calculation: 
+calculator: 
+calculus: 
+caledonian: 
+calendar: 
+calgary: 
+cali: 
+calibration: 
+california: 
+californian: 
+call: 
+calm: 
+calorie: 
+calvinism: 
+calvinist: 
+cambodian: 
+cambrian: 
+cambridge: 
+camera: 
+camp: 
+campaign: 
+campus: 
+can: 
