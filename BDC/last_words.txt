@@ -1,50 +1,50 @@
-canada: ：
-canadian: 
-canal: 
-canberra: 
-cancel: 
-candle: ：
-candy: 
-cane: 
-canoe: 
-cantonese: 
-canvas: 
-cap: ：
-capability: 
-capable: 
-capacitance: 
-capacitor: 
-capacity: 
-cape: 
-capital: 
-capsule: 
-captain: 
-caption: 
-capture: 
-car: 
-carbon: 
-card: ：
-cardinal: 
-care: 
-career: 
-careful: 
-caregiver: 
-careless: 
-cargo: 
-caribbean: 
-carl: 
-carla: :
-carmen: :
-carpenter: 
-carpentry: 
-carpet: 
-carriage: ：
-carrier: 
-carrot: 
-carry: 
-cart: 
-cartoon: 
-cartridge: 
-carve: 
-case: 
-casey: 
+cashier: 
+cassette: 
+cast: 
+castle: 
+casualty: 
+cat: 
+catalogue: 
+catalyst: 
+catastrophe: 
+catch: 
+cater: 
+cathedral: 
+catholic: ：
+catholicism: 
+cattle: 
+cause: 
+caution: 
+cautious: 
+cave: 
+cavity: 
+cba: 
+cd: 
+cease: 
+celebrate: 
+celebration: :
+cell: 
+cellar: 
+celsius: 
+cement: 
+cemetery: 
+censor: 
+census: 
+cent: 
+centimetre: ：
+central: 
+centre: 
+century: 
+ceo: 
+ceramic: 
+cereal: 
+ceremony: 
+certain: 
+certainly: 
+certainty: 
+certificate: 
+certification: 
+certify: 
+chain: 
+chair: 
+chairman: 
