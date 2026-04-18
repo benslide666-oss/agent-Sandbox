@@ -1,50 +1,50 @@
-burn: :
-burner: 
-bury: 
-bus: 
-bush: ：
-bushel: 
-business: :
-businesswoman: 
-bust: 
-busy: 
-but: 
-butcher: 
-butt: 
-butter: ：
-button: 
-buy: 
-by: 
-bye: 
-: 
-cabinet: 
-cable: 
-cad: 
-cafe: 
-cage: 
-caius: ：
-cake: 
-calcium: 
-calculation: 
-calculator: 
-calculus: 
-caledonian: 
-calendar: 
-calgary: 
-cali: 
-calibration: 
-california: 
-californian: 
-call: 
-calm: 
-calorie: 
-calvinism: 
-calvinist: 
-cambodian: 
-cambrian: 
-cambridge: 
-camera: 
-camp: 
-campaign: 
-campus: 
-can: 
+canada: ：
+canadian: 
+canal: 
+canberra: 
+cancel: 
+candle: ：
+candy: 
+cane: 
+canoe: 
+cantonese: 
+canvas: 
+cap: ：
+capability: 
+capable: 
+capacitance: 
+capacitor: 
+capacity: 
+cape: 
+capital: 
+capsule: 
+captain: 
+caption: 
+capture: 
+car: 
+carbon: 
+card: ：
+cardinal: 
+care: 
+career: 
+careful: 
+caregiver: 
+careless: 
+cargo: 
+caribbean: 
+carl: 
+carla: :
+carmen: :
+carpenter: 
+carpentry: 
+carpet: 
+carriage: ：
+carrier: 
+carrot: 
+carry: 
+cart: 
+cartoon: 
+cartridge: 
+carve: 
+case: 
+casey: 
