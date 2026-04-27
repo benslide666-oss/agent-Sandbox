@@ -1,50 +1,50 @@
-conqueror: 
-conquest: 
-conscientious: 
-conscious: 
-consciousness: 
-consecutive: :
-consensus: 
-consent: ：
-consequence: 
-consequent: 
-consequently: 
-conservation: 
-conserve: 
-considerably: 
-considerate: 
-consideration: 
-considering: 
-consist: 
-consistent: 
-console: 
-consolidate: 
-conspicuous: 
-constant: 
-constantly: ：
-constituent: 
-constitute: 
-constitution: 
-constrain: 
-constraint: 
-construct: 
-construction: 
-constructive: 
-consul: 
-consult: 
-consultancy: 
-consultant: 
-consume: 
-consumer: 
-consumption: 
-contact: 
-contain: 
-container: 
-contaminate: 
-contamination: 
-contemplate: 
-contemporary: 
-contempt: 
-contend: 
-content: 
-contest: 
+contestant: 
+context: 
+记忆辅助: 
+continental: 
+continual: 
+continue: 
+continuity: 
+contract: 
+contradict: 
+contradiction: 
+contradictory: 
+contrary: 
+contribute: 
+contrive: 
+controversy: 
+convene: 
+convenience: 
+conventional: 
+conversation: 
+conversely: 
+conversion: ：
+convert: 
+convey: 
+convict: 
+conviction: ：
+convince: 
+convincing: 
+cook: :
+cooker: 
+cookie: 
+cool: 
+cooperate: 
+cooperative: 
+coordinate: 
+coordination: 
+cope: 
+copper: :
+copyright: 
+coral: 
+cord: 
+cordelia: 
+cordial: 
+cordless: :
+cork: 
+corn: 
+corner: 
+cornerstone: 
+cornwall: 
+corporation: 
+corps: ：
