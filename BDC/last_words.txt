@@ -1,50 +1,50 @@
-contestant: 
-context: 
-记忆辅助: 
-continental: 
-continual: 
-continue: 
-continuity: 
-contract: 
-contradict: 
-contradiction: 
-contradictory: 
-contrary: 
-contribute: 
-contrive: 
-controversy: 
-convene: 
-convenience: 
-conventional: 
-conversation: 
-conversely: 
-conversion: ：
-convert: 
-convey: 
-convict: 
-conviction: ：
-convince: 
-convincing: 
-cook: :
-cooker: 
-cookie: 
-cool: 
-cooperate: 
-cooperative: 
-coordinate: 
-coordination: 
-cope: 
-copper: :
-copyright: 
-coral: 
-cord: 
-cordelia: 
-cordial: 
-cordless: :
-cork: 
-corn: 
-corner: 
-cornerstone: 
-cornwall: 
-corporation: 
-corps: ：
+corpse: 
+correct: 
+correction: 
+correctly: 
+correlate: 
+correlation: 
+correspond: 
+correspondence: 
+correspondent: ：
+corresponding: 
+corridor: 
+corrode: 
+corrupt: 
+corruption: 
+cosmos: 
+cost: 
+costly: 
+costume: 
+cosy: 
+cottage: 
+cotton: ：
+couch: 
+cough: 
+could: 
+counsel: 
+counseling: 
+counselor: ：
+counterpart: 
+country: 
+countryside: 
+county: 
+couple: 
+coupon: 
+courageous: 
+court: 
+courteous: :
+courtesy: 
+courtyard: :
+cousin: 
+cover: 
+coverage: 
+cow: 
+coward: 
+cowboy: 
+crab: ：
+cradle: 
+craft: 
+crane: ：
+crank: 
+crash: 
