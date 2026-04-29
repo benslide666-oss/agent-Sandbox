@@ -1,50 +1,50 @@
-corpse: 
-correct: 
-correction: 
-correctly: 
-correlate: 
-correlation: 
-correspond: 
-correspondence: 
-correspondent: ：
-corresponding: 
-corridor: 
-corrode: 
-corrupt: 
-corruption: 
-cosmos: 
-cost: 
-costly: 
-costume: 
-cosy: 
-cottage: 
-cotton: ：
-couch: 
-cough: 
-could: 
-counsel: 
-counseling: 
-counselor: ：
-counterpart: 
-country: 
-countryside: 
-county: 
-couple: 
-coupon: 
-courageous: 
-court: 
-courteous: :
-courtesy: 
-courtyard: :
-cousin: 
-cover: 
-coverage: 
-cow: 
-coward: 
-cowboy: 
-crab: ：
-cradle: 
-craft: 
-crane: ：
-crank: 
-crash: 
+crawl: 
+crayon: 
+cream: 
+create: 
+creation: 
+creative: 
+creativity: 
+credible: :
+creep: 
+crew: 
+cricket: 
+crime: 
+criminal: 
+criminology: 
+cripple: ：
+crisis: 
+crisp: 
+criteria: 
+criterion: 
+critic: 
+criticize: 
+crooked: 
+cropland: 
+cross: 
+crossing: 
+crow: :
+crowd: 
+crowded: 
+crown: 
+crucial: 
+cruel: 
+cruelty: 
+cruise: 
+crumble: :
+crust: 
+cry: 
+crystal: ：
+crystallize: 
+cuban: 
+cube: 
+cubic: 
+cuckoo: :
+cucumber: 
+cue: :
+cuisine: 
+culminate: 
+cultivate: 
+culture: 
+cumulative: 
+cunning: 
