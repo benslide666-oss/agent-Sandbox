@@ -1,50 +1,50 @@
-crawl: 
-crayon: 
-cream: 
-create: 
-creation: 
-creative: 
-creativity: 
-credible: :
-creep: 
-crew: 
-cricket: 
-crime: 
-criminal: 
-criminology: 
-cripple: ：
-crisis: 
-crisp: 
-criteria: 
-criterion: 
-critic: 
-criticize: 
-crooked: 
-cropland: 
-cross: 
-crossing: 
-crow: :
-crowd: 
-crowded: 
-crown: 
-crucial: 
-cruel: 
-cruelty: 
-cruise: 
-crumble: :
-crust: 
-cry: 
-crystal: ：
-crystallize: 
-cuban: 
-cube: 
-cubic: 
-cuckoo: :
-cucumber: 
-cue: :
-cuisine: 
-culminate: 
-cultivate: 
-culture: 
-cumulative: 
-cunning: 
+cup: 
+cupboard: 
+curb: 
+cure: 
+curiosity: :
+curious: :
+curl: 
+currency: 
+current: 
+currently: 
+curriculum: 
+curse: :
+curtain: 
+curve: ：
+cushion: 
+custom: 
+customer: 
+customs: 
+cut: 
+cute: ：
+cutter: 
+cuzco: 
+cv: 
+cycle: 
+cylinder: ：
+cynical: 
+czar: 
+d/a: 
+dad: 
+daily: 
+daisy: 
+dam: 
+damn: 
+damp: 
+danger: 
+dangerous: 
+daring: 
+dark: ：
+darkness: 
+darling: 
+dart: 
+dash: 
+data: ：
+database: :
+date: 
+datum: 
+daughter: 
+dawn: :
+day: 
+daylight: 
