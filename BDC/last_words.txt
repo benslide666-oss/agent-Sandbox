@@ -1,50 +1,50 @@
-cup: 
-cupboard: 
-curb: 
-cure: 
-curiosity: :
-curious: :
-curl: 
-currency: 
-current: 
-currently: 
-curriculum: 
-curse: :
-curtain: 
-curve: ：
-cushion: 
-custom: 
-customer: 
-customs: 
-cut: 
-cute: ：
-cutter: 
-cuzco: 
-cv: 
-cycle: 
-cylinder: ：
-cynical: 
-czar: 
-d/a: 
-dad: 
-daily: 
-daisy: 
-dam: 
-damn: 
-damp: 
-danger: 
-dangerous: 
-daring: 
-dark: ：
-darkness: 
-darling: 
-dart: 
-dash: 
-data: ：
-database: :
-date: 
-datum: 
-daughter: 
-dawn: :
-day: 
-daylight: 
+dazzle: :
+dead: 
+deadline: ：
+deadly: 
+deaf: 
+deafen: 
+dealer: 
+dean: 
+dear: 
+death: 
+debate: 
+debris: 
+debt: 
+decade: 
+decay: 
+deceit: 
+deceive: 
+december: 
+decency: 
+deception: 
+decide: ：
+decidedly: 
+decimal: 
+decision: 
+decisive: 
+deck: 
+declare: 
+decline: 
+decode: 
+decompose: 
+decorate: 
+decoration: 
+decorative: 
+decrease: 
+decree: 
+dedicate: 
+deduct: 
+deduction: ：
+deed: 
+deem: 
+deep: 
+deeply: 
+deer: 
+default: 
+defeat: 
+defence: 
+defend: 
+defendant: 
+defense: 
+deferential: 
