@@ -1,50 +1,50 @@
-dazzle: :
-dead: 
-deadline: ：
-deadly: 
-deaf: 
-deafen: 
-dealer: 
-dean: 
-dear: 
-death: 
-debate: 
-debris: 
-debt: 
-decade: 
-decay: 
-deceit: 
-deceive: 
-december: 
-decency: 
-deception: 
-decide: ：
-decidedly: 
-decimal: 
-decision: 
-decisive: 
-deck: 
-declare: 
-decline: 
-decode: 
-decompose: 
-decorate: 
-decoration: 
-decorative: 
-decrease: 
-decree: 
-dedicate: 
-deduct: 
-deduction: ：
-deed: 
-deem: 
-deep: 
-deeply: 
-deer: 
-default: 
-defeat: 
-defence: 
-defend: 
-defendant: 
-defense: 
-deferential: 
+defiance: 
+deficiency: 
+deficient: 
+define: 
+definitely: 
+definition: 
+definitive: 
+deforestation: 
+deform: 
+deformation: 
+defy: ：
+degenerate: ：
+degeneration: 
+degradation: 
+degrade: 
+degree: 
+delay: 
+delegate: 
+delegation: 
+delete: :
+deliberately: 
+delicate: 
+delight: 
+delighted: 
+delightful: 
+deliver: 
+delivery: 
+delusion: 
+demand: 
+democracy: 
+democratic: 
+demonstrate: 
+demonstration: 
+denationalize: 
+denial: 
+denmark: 
+denote: 
+denounce: :
+dense: 
+density: 
+dentist: 
+deny: 
+department: 
+departure: 
+depend: 
+dependant: :
+depict: 
+deposition: 
+depress: 
+depressed: 
