@@ -1,50 +1,50 @@
-defiance: 
-deficiency: 
-deficient: 
-define: 
-definitely: 
-definition: 
-definitive: 
-deforestation: 
-deform: 
-deformation: 
-defy: ：
-degenerate: ：
-degeneration: 
-degradation: 
-degrade: 
-degree: 
-delay: 
-delegate: 
-delegation: 
-delete: :
-deliberately: 
-delicate: 
-delight: 
-delighted: 
-delightful: 
-deliver: 
-delivery: 
-delusion: 
-demand: 
-democracy: 
-democratic: 
-demonstrate: 
-demonstration: 
-denationalize: 
-denial: 
-denmark: 
-denote: 
-denounce: :
-dense: 
-density: 
-dentist: 
-deny: 
-department: 
-departure: 
-depend: 
-dependant: :
-depict: 
-deposition: 
-depress: 
-depressed: 
+depressing: 
+depression: ：
+deprive: 
+depth: 
+derail: 
+derivation: 
+derive: ：
+descent: 
+describe: 
+description: 
+descriptive: 
+desert: 
+deserve: ：
+designate: 
+desire: 
+desk: 
+desolate: 
+despair: 
+desperate: 
+despise: 
+dessert: 
+destination: 
+destine: 
+destined: 
+destiny: 
+destroy: :
+destruction: ：
+destructive: ：
+detached: 
+detail: 
+detailed: :
+detain: 
+detect: 
+detective: 
+detector: 
+deteriorate: 
+deterioration: 
+determine: 
+develop: 
+development: 
+developmental: 
+deviate: 
+deviation: 
+devil: 
+devise: 
+devote: 
+devotion: 
+devour: 
+dew: ：
+diagnose: 
