@@ -1,50 +1,50 @@
-depressing: 
-depression: ：
-deprive: 
-depth: 
-derail: 
-derivation: 
-derive: ：
-descent: 
-describe: 
-description: 
-descriptive: 
-desert: 
-deserve: ：
-designate: 
-desire: 
-desk: 
-desolate: 
-despair: 
-desperate: 
-despise: 
-dessert: 
-destination: 
-destine: 
-destined: 
-destiny: 
-destroy: :
-destruction: ：
-destructive: ：
-detached: 
-detail: 
-detailed: :
-detain: 
-detect: 
-detective: 
-detector: 
-deteriorate: 
-deterioration: 
-determine: 
-develop: 
-development: 
-developmental: 
-deviate: 
-deviation: 
-devil: 
-devise: 
-devote: 
-devotion: 
-devour: 
-dew: ：
-diagnose: 
+dial: 
+dialect: 
+dialog: :
+dialogue: 
+diameter: 
+diamond: 
+diary: 
+dictate: 
+dictator: 
+dictionary: 
+die: 
+difference: 
+differentiate: 
+difficult: 
+difficulty: ：
+diffuse: 
+dig: 
+digest: 
+dignity: 
+dilemma: 
+diligence: 
+diligent: 
+dilute: 1.
+dim: :
+dine: 
+dinner: 
+dioxide: 
+dip: 
+diploma: 
+diplomat: 
+diplomatic: ：
+direction: 
+director: 
+directory: 
+dirt: 
+disability: 
+disable: 
+disabled: 
+disagree: 
+disagreement: 
+disappear: 
+disappearance: 
+disappointing: 
+disappointment: 
+disapproval: 
+disarm: 
+disaster: 
+disastrous: 
+discern: 
+discharge: 
