@@ -1,50 +1,50 @@
-dial: 
-dialect: 
-dialog: :
-dialogue: 
-diameter: 
-diamond: 
-diary: 
-dictate: 
-dictator: 
-dictionary: 
-die: 
-difference: 
-differentiate: 
-difficult: 
-difficulty: ：
-diffuse: 
-dig: 
-digest: 
-dignity: 
-dilemma: 
-diligence: 
-diligent: 
-dilute: 1.
-dim: :
-dine: 
-dinner: 
-dioxide: 
-dip: 
-diploma: 
-diplomat: 
-diplomatic: ：
-direction: 
-director: 
-directory: 
-dirt: 
-disability: 
-disable: 
-disabled: 
-disagree: 
-disagreement: 
-disappear: 
-disappearance: 
-disappointing: 
-disappointment: 
-disapproval: 
-disarm: 
-disaster: 
-disastrous: 
-discern: 
-discharge: 
+discipline: 
+disclose: 
+disconnect: 
+discount: 
+discourage: 
+discourse: 
+discover: 
+discovery: 
+discreet: 
+discrepancy: 
+discrete: 
+discriminate: 
+discrimination: 
+discuss: 
+discussion: 
+disgrace: 
+disguise: 
+disgust: 
+disgusting: 
+dish: 
+dishonest: 
+dishonour: :
+dishwasher: ：
+disillusion: 
+dislike: 
+dismantle: 
+dismay: 
+dismiss: 
+disobey: 
+disorder: :
+disorderly: 
+dispatch: 
+dispensable: ：
+disperse: 
+displace: 
+displacement: 
+display: 
+displease: 
+disposable: 
+disposal: ：
+dispose: 
+disposition: 
+disproportionately: 
+disregard: 
+disrupt: 
+dissatisfaction: 
+dissatisfy: 
+dissipate: 
+dissolve: 
+distance: 
