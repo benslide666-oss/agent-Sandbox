@@ -1,50 +1,50 @@
-discipline: 
-disclose: 
-disconnect: 
-discount: 
-discourage: 
-discourse: 
-discover: 
-discovery: 
-discreet: 
-discrepancy: 
-discrete: 
-discriminate: 
-discrimination: 
-discuss: 
-discussion: 
-disgrace: 
-disguise: 
-disgust: 
-disgusting: 
-dish: 
-dishonest: 
-dishonour: :
-dishwasher: ：
-disillusion: 
-dislike: 
-dismantle: 
-dismay: 
-dismiss: 
-disobey: 
-disorder: :
-disorderly: 
-dispatch: 
-dispensable: ：
-disperse: 
-displace: 
-displacement: 
-display: 
-displease: 
-disposable: 
-disposal: ：
-dispose: 
-disposition: 
-disproportionately: 
-disregard: 
-disrupt: 
-dissatisfaction: 
-dissatisfy: 
-dissipate: 
-dissolve: 
-distance: 
+distill: 
+distinct: 
+distinction: ：
+distinctive: 
+distinctly: 
+distinguish: 
+distinguished: 
+distort: ：
+distortion: 
+distract: 
+distracted: 
+distraction: 
+distress: 
+district: 
+disturb: 
+disturbance: 
+disturbing: 
+dive: 
+diverge: 
+diverse: 
+diversion: 
+diversity: 
+divert: 
+divide: 
+dividend: ：
+divine: 
+divorce: 
+diy: 
+dizzy: 
+dj: 
+dna: 
+do: 
+dock: 
+doctor: 
+doctoral: 
+doctrine: 
+document: 
+documentary: 
+dodge: 
+dog: 
+发展历史和文化背景: ###
+doll: :
+dollar: 
+dollywood: 
+dolphin: :
+domain: 
+dome: :
+domestic: 
+dominant: 
+domination: 
