@@ -1,50 +1,50 @@
-distill: 
-distinct: 
-distinction: ：
-distinctive: 
-distinctly: 
-distinguish: 
-distinguished: 
-distort: ：
-distortion: 
-distract: 
-distracted: 
-distraction: 
-distress: 
-district: 
-disturb: 
-disturbance: 
-disturbing: 
-dive: 
-diverge: 
-diverse: 
-diversion: 
-diversity: 
-divert: 
-divide: 
-dividend: ：
-divine: 
-divorce: 
-diy: 
-dizzy: 
-dj: 
-dna: 
-do: 
-dock: 
-doctor: 
-doctoral: 
-doctrine: 
-document: 
-documentary: 
-dodge: 
-dog: 
-发展历史和文化背景: ###
-doll: :
-dollar: 
-dollywood: 
-dolphin: :
-domain: 
-dome: :
-domestic: 
-dominant: 
-domination: 
+donate: 
+donation: 
+donkey: 
+doom: 
+dorm: 
+dose: 
+dot: 
+doubt: 
+doubtful: 
+doubtless: 
+dove: 
+down: ：
+downfall: 
+download: 
+downsize: 
+downtown: :
+downward: 
+dozen: 
+dr: 
+draft: 
+dragon: 
+drain: 
+drainage: 
+dramatic: ：
+dramatically: 
+drastic: 
+drastically: 
+draught: 
+draw: 
+drawback: 
+drawer: 
+dread: 
+dreadful: 
+dream: 
+dress: 
+drier: 
+drift: 
+drill: :
+drink: 
+drop: 
+dropout: 
+drought: 
+词缀分析: 
+drum: 
+drummer: 
+drunk: 
+dry: 
+dual: 
+dub: 
+dubious: 
