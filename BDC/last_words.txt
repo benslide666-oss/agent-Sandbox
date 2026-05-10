@@ -1,50 +1,50 @@
-economically: 
-economics: 
-economy: 
-ecosystem: 
-ecotourism: 
-edible: 
-edit: 
-edition: 
-editorial: 
-educate: 
-education: 
-educational: 
-educator: 
-effect: 
-effective: 
-efficiency: 
-efficiently: 
-effort: 
-egg: 
-eggplant: ：
-egypt: :
-egyptian: 
-eight: 
-eighteen: 
-eighth: 
-eighty: 
-either: 
-eject: 
-elapse: 
-elastic: 
-elbow: 
-elder: ：
-elderly: 
-elect: 1.
-election: 
-elective: 
-electric: 
-electrical: 
-electrician: 
-electricity: 
-electrify: 
-electrode: 
-electron: 
-electronic: 
-electronics: 
-elegant: 
-element: 
-elemental: 
-elementary: 
-elephant: 
+elevate: 
+elevation: 
+elevator: 
+eleven: 
+eleventh: :
+elias: ：
+eligible: 
+eliminate: 
+elimination: 
+elite: 
+elliptical: 
+eloquence: 
+eloquent: 
+elsewhere: 
+embark: 
+embarrass: 
+embarrassed: 
+embassy: 
+embed: :
+embody: 
+embrace: 
+embroidery: 
+emergence: 
+emigrate: 
+emily: 
+emission: 
+emit: 
+emotional: 
+emphasis: 
+emphasize: 
+empire: 
+empirical: 
+employ: 
+employee: 
+employer: :
+employment: :
+empower: 
+empty: 
+enchant: 
+encl.: 
+enclosure: 
+encounter: 
+encourage: 
+encouragement: 
+end: :
+endanger: 
+endeavor: :
+ending: 
+endorsement: 
+endow: 
