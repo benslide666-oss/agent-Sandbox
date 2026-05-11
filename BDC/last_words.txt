@@ -1,50 +1,50 @@
-elevate: 
-elevation: 
-elevator: 
-eleven: 
-eleventh: :
-elias: ：
-eligible: 
-eliminate: 
-elimination: 
-elite: 
-elliptical: 
-eloquence: 
-eloquent: 
-elsewhere: 
-embark: 
-embarrass: 
-embarrassed: 
-embassy: 
-embed: :
-embody: 
-embrace: 
-embroidery: 
-emergence: 
-emigrate: 
-emily: 
-emission: 
-emit: 
-emotional: 
-emphasis: 
-emphasize: 
-empire: 
-empirical: 
-employ: 
-employee: 
-employer: :
-employment: :
-empower: 
-empty: 
-enchant: 
-encl.: 
-enclosure: 
-encounter: 
-encourage: 
-encouragement: 
-end: :
-endanger: 
-endeavor: :
-ending: 
-endorsement: 
-endow: 
+endurance: 
+enemy: 
+energetic: 
+energize: 
+energy: 
+enforce: 
+engage: 
+engagement: ：
+engine: 
+engineer: 
+engineering: 
+england: 
+englishman: 
+englishwoman: 
+enhance: 
+enjoy: ：
+enjoyable: 
+enlarge: 
+enlighten: 
+enlightenment: 
+enormous: ：
+enough: 
+enquire: 
+enrich: 
+enroll: 
+enrollment: :
+ensue: 
+ensure: 
+entail: 
+enter: 
+enterprise: 
+entertain: :
+entertaining: 
+enthusiastic: 
+entity: 
+entrance: 
+entreat: 
+entrepreneur: 
+entrepreneurship: :
+entry: :
+enviable: 
+environment: 
+envisage: :
+envy: 
+epidemic: 
+episode: 
+equality: 
+equation: 
+equator: 
+equilibrium: 
