@@ -1,50 +1,50 @@
-endurance: 
-enemy: 
-energetic: 
-energize: 
-energy: 
-enforce: 
-engage: 
-engagement: ：
-engine: 
-engineer: 
-engineering: 
-england: 
-englishman: 
-englishwoman: 
-enhance: 
-enjoy: ：
-enjoyable: 
-enlarge: 
-enlighten: 
-enlightenment: 
-enormous: ：
-enough: 
-enquire: 
-enrich: 
-enroll: 
-enrollment: :
-ensue: 
-ensure: 
-entail: 
-enter: 
-enterprise: 
-entertain: :
-entertaining: 
-enthusiastic: 
-entity: 
-entrance: 
-entreat: 
-entrepreneur: 
-entrepreneurship: :
-entry: :
-enviable: 
-environment: 
-envisage: :
-envy: 
-epidemic: 
-episode: 
-equality: 
-equation: 
-equator: 
-equilibrium: 
+equip: 
+equivalence: 
+equivalent: 
+era: ：
+eradicate: 
+eraser: :
+erie: :
+erosion: 
+errand: 
+erroneous: 
+error: 
+erupt: 
+escape: 
+eskimo: 
+essay: 
+essence: ：
+essential: 
+essentially: 
+establish: 
+establishment: 
+estate: 
+esteem: 
+esthetic: 
+estimate: 
+ethnic: ：
+euphrates: 
+eurasia: 
+eurasian: 
+euro: 
+europe: 
+european: 
+evaluate: 
+evaporate: 
+even: 
+evening: ：
+evenly: 
+event: 
+eventually: 
+ever: 
+every: :
+小故事: 
+everyone: 
+everything: 
+everywhere: 
+evidence: 
+evident: 
+evidently: 
+evil: 【】
+evoke: 
+evolution: 
