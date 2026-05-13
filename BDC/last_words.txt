@@ -1,50 +1,50 @@
-equip: 
-equivalence: 
-equivalent: 
-era: ：
-eradicate: 
-eraser: :
-erie: :
-erosion: 
-errand: 
-erroneous: 
-error: 
-erupt: 
-escape: 
-eskimo: 
-essay: 
-essence: ：
-essential: 
-essentially: 
-establish: 
-establishment: 
-estate: 
-esteem: 
-esthetic: 
-estimate: 
-ethnic: ：
-euphrates: 
-eurasia: 
-eurasian: 
-euro: 
-europe: 
-european: 
-evaluate: 
-evaporate: 
-even: 
-evening: ：
-evenly: 
-event: 
-eventually: 
-ever: 
-every: :
-小故事: 
-everyone: 
-everything: 
-everywhere: 
-evidence: 
-evident: 
-evidently: 
-evil: 【】
-evoke: 
-evolution: 
+evolutionary: 
+evolve: 
+exact: ：
+exactly: 
+exaggerate: 
+exaggeration: 
+examination: 
+examine: 
+example: 
+exceed: 
+exceedingly: 
+excel: ：
+excellent: 
+except: 
+exception: 
+exceptional: 
+excess: 
+excessive: 
+excite: 
+excitement: 
+exciting: 
+exclaim: 
+exclamation: 
+exclude: 
+exclusive: 
+exclusively: 
+excursion: 
+excuse: 
+execute: 
+execution: 
+executive: 
+exemplify: 
+exempt: 
+exercise: 
+exert: 
+exertion: 
+exhibit: 
+exhibition: 
+exist: 
+exit: 
+exotic: 
+expand: 
+expansion: ：
+expect: 
+expectancy: 
+expectation: 
+expedition: 
+expend: :
+expenditure: 
+expense: ：
