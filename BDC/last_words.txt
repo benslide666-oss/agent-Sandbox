@@ -1,50 +1,50 @@
-evolutionary: 
-evolve: 
-exact: ：
-exactly: 
-exaggerate: 
-exaggeration: 
-examination: 
-examine: 
-example: 
-exceed: 
-exceedingly: 
-excel: ：
-excellent: 
-except: 
-exception: 
-exceptional: 
-excess: 
-excessive: 
-excite: 
-excitement: 
-exciting: 
-exclaim: 
-exclamation: 
-exclude: 
-exclusive: 
-exclusively: 
-excursion: 
-excuse: 
-execute: 
-execution: 
-executive: 
-exemplify: 
-exempt: 
-exercise: 
-exert: 
-exertion: 
-exhibit: 
-exhibition: 
-exist: 
-exit: 
-exotic: 
-expand: 
-expansion: ：
-expect: 
-expectancy: 
-expectation: 
-expedition: 
-expend: :
-expenditure: 
-expense: ：
+expensive: 
+experiment: 
+experimental: 
+experimentally: 
+experimentation: 
+expertise: 
+expire: 
+explain: 
+explicit: 
+explicitly: 
+exploit: 
+exploration: 
+explore: 
+explorer: 
+explosion: 
+explosive: 
+export: ：
+expose: 
+exposure: 
+express: 
+expressiveness: 
+extend: 
+extension: 
+extensive: ：
+extensively: 
+exterior: 
+external: 
+extinct: ："Extinct"是一个形容词，主要用来形容已经灭绝的生物或者事物，例如灭绝的
+extinguish: 
+extra: 
+extract: 
+extraction: 
+extracurricular: 
+extraordinarily: 
+extraordinary: 
+extravagant: 
+extremely: :
+eye: 
+eyesight: 
+eyewitness: 
+: 
+fabric: :
+fabricate: 
+fabrication: 
+face: ：
+facial: 
+facilitate: 
+facility: :
+fact: 
+factor: 
