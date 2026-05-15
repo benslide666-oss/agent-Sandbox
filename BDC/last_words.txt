@@ -1,50 +1,50 @@
-expensive: 
-experiment: 
-experimental: 
-experimentally: 
-experimentation: 
-expertise: 
-expire: 
-explain: 
-explicit: 
-explicitly: 
-exploit: 
-exploration: 
-explore: 
-explorer: 
-explosion: 
-explosive: 
-export: ：
-expose: 
-exposure: 
-express: 
-expressiveness: 
-extend: 
-extension: 
-extensive: ：
-extensively: 
-exterior: 
-external: 
-extinct: ："Extinct"是一个形容词，主要用来形容已经灭绝的生物或者事物，例如灭绝的
-extinguish: 
-extra: 
-extract: 
-extraction: 
-extracurricular: 
-extraordinarily: 
-extraordinary: 
-extravagant: 
-extremely: :
-eye: 
-eyesight: 
-eyewitness: 
-: 
-fabric: :
-fabricate: 
-fabrication: 
-face: ：
-facial: 
-facilitate: 
-facility: :
-fact: 
-factor: 
+factory: 
+faculty: 
+fahrenheit: 
+fail: 
+failure: 
+fair: 
+fairly: 
+fairness: 
+fairy: 
+faith: 
+faithful: :
+fake: 
+fall: 
+false: 
+falsehood: 
+fame: 
+family: 
+famine: 
+fan: 
+fancy: :
+fantasize: 
+fantasy: ：
+far: 
+fare: ：
+farewell: 
+farm: 
+farmer: 
+fascinate: :
+fascinating: 
+fascination: 
+fashion: 
+fashionable: 
+fast: 
+fasten: 
+fastener: 
+fat: 
+fatal: 
+fate: 
+father: 
+fatigue: 
+fault: 
+faultless: :
+faulty: 
+favor: 
+favour: 
+favourable: 
+favourite: 
+fax: ：
+fbi: 
+fear: 
