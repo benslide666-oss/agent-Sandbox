@@ -1,50 +1,50 @@
-factory: 
-faculty: 
-fahrenheit: 
-fail: 
-failure: 
-fair: 
-fairly: 
-fairness: 
-fairy: 
-faith: 
-faithful: :
-fake: 
-fall: 
-false: 
-falsehood: 
-fame: 
-family: 
-famine: 
-fan: 
-fancy: :
-fantasize: 
-fantasy: ：
-far: 
-fare: ：
-farewell: 
-farm: 
-farmer: 
-fascinate: :
-fascinating: 
-fascination: 
-fashion: 
-fashionable: 
-fast: 
-fasten: 
-fastener: 
-fat: 
-fatal: 
-fate: 
-father: 
-fatigue: 
-fault: 
-faultless: :
-faulty: 
-favor: 
-favour: 
-favourable: 
-favourite: 
-fax: ：
-fbi: 
-fear: 
+fearful: 
+fearless: 
+fearlessly: 
+feasibility: 
+feasible: 
+feast: 
+feather: 
+feature: 
+february: 
+federal: 
+federation: 
+feeble: 
+feed: 
+feel: 
+feeling: 
+fell: 
+fellow: ：
+female: 
+feminine: 
+femininity: 
+fence: 
+ferrous: 
+ferry: 
+fertility: 
+fertilizer: 
+festival: ：
+fetch: 
+fever: 
+few: 
+fiction: 
+field: 
+fierce: 
+fifteen: 
+fifth: :
+fifty: 
+fight: 
+fighter: 
+filament: :
+file: 
+fill: 
+film: 
+filter: 
+filth: 
+final: 
+finally: 
+finance: 
+financial: 
+finding: 
+fine: 
+finely: 
