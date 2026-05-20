@@ -1,50 +1,50 @@
-词缀分析：: ：
-fluent: 
-fluently: 
-fluid: 
-fluorescent: 
-flush: 
-flutter: 
-flux: 
-fly: 
-foam: 
-focus: 
-foggy: ：
-fold: 
-folk: 
-follow: 
-follower: 
-following: ：
-food: 
-fool: 
-foot: 
-footnote: 
-footpath: 
-footstep: 
-for: 
-forbid: 
-fore: 
-forecast: ：
-foreigner: 
-foremost: 
-foresee: 
-foreseeable: 
-forever: ：
-forge: 
-forget: 
-forgetful: 
-forgive: 
-fork: 
-format: 
-formation: 
-former: 
-formerly: 
-formidable: 
-formula: 
-formulate: 
-formulation: 
-forsake: 
-fort: 
-forth: 
-forthcoming: 
-fortnight: 
+fortress: ：
+fortunate: 
+fortunately: 
+fortune: 
+forty: 
+forum: ：
+foul: 
+found: 
+founding: 
+four: ：
+fourfold: 
+fourteen: 
+fourth: 
+fox: 
+fraction: 
+fracture: 
+fragile: 
+fragment: 
+fragrance: :
+fragrant: 
+frail: 
+frame: 
+framework: 
+france: 
+frank: ：
+frankly: 
+fraud: 
+freddy: 
+free: 
+freely: 
+freeway: 
+freeze: 
+french: 
+frenchman: 
+frequency: 
+frequent: 
+frequently: 
+fresh: 
+fret: :
+friction: 
+fried: 
+friend: 
+friendly: 
+friendship: 
+fright: 
+frighten: 
+fringe: ：
+fro: 
+frog: 
+from: 
