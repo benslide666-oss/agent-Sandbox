@@ -1,50 +1,50 @@
-fortress: ：
-fortunate: 
-fortunately: 
-fortune: 
-forty: 
-forum: ：
-foul: 
-found: 
-founding: 
-four: ：
-fourfold: 
-fourteen: 
-fourth: 
-fox: 
-fraction: 
-fracture: 
-fragile: 
-fragment: 
-fragrance: :
-fragrant: 
-frail: 
-frame: 
-framework: 
-france: 
-frank: ：
-frankly: 
-fraud: 
-freddy: 
-free: 
-freely: 
-freeway: 
-freeze: 
-french: 
-frenchman: 
-frequency: 
-frequent: 
-frequently: 
-fresh: 
-fret: :
-friction: 
-fried: 
-friend: 
-friendly: 
-friendship: 
-fright: 
-frighten: 
-fringe: ：
-fro: 
-frog: 
-from: 
+front: 
+frontier: 
+frost: 
+frown: 
+fruit: 
+fruitful: 
+frustrate: 
+frustration: 
+fry: 
+fulfill: ：
+full: 
+fun: 
+function: 
+fund: ：
+fundamental: 
+小故事: 
+funeral: 
+funny: 
+furious: ：
+furnace: 
+furnish: 
+furnished: 
+furniture: :
+further: 
+furthermore: 
+fury: 
+fusion: 
+fuss: ：
+fussy: 
+galaxy: 
+gale: 
+galilean: 
+gallery: 
+gamble: 
+gambling: 
+game: ：
+gangster: 
+gaol: 
+garage: 
+garbage: 
+garden: 
+gardener: 
+garment: 
+gas: 
+gaseous: ：
+gasoline: 
+gasp: 
+gate: 
+gather: 
+gathering: 
