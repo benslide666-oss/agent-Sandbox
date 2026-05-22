@@ -1,50 +1,50 @@
-front: 
-frontier: 
-frost: 
-frown: 
-fruit: 
-fruitful: 
-frustrate: 
-frustration: 
-fry: 
-fulfill: ：
-full: 
-fun: 
-function: 
-fund: ：
-fundamental: 
-小故事: 
-funeral: 
-funny: 
-furious: ：
-furnace: 
-furnish: 
-furnished: 
-furniture: :
-further: 
-furthermore: 
-fury: 
-fusion: 
-fuss: ：
-fussy: 
-galaxy: 
-gale: 
-galilean: 
-gallery: 
-gamble: 
-gambling: 
-game: ：
-gangster: 
-gaol: 
-garage: 
-garbage: 
-garden: 
-gardener: 
-garment: 
-gas: 
-gaseous: ：
-gasoline: 
-gasp: 
-gate: 
-gather: 
-gathering: 
+gauge: 
+gay: 
+gaze: 
+gear: ：
+gender: 
+gene: ：
+general: 
+generalization: 
+generalize: 
+generate: 
+generation: 
+generator: 
+generic: 
+generous: 
+genetic: :
+genius: 
+gentile: 
+gentle: 
+gentleman: 
+gently: 
+genuine: 
+geographical: 
+geography: 
+geology: 
+geometrical: 
+geometry: 
+georgia: :
+germ: 
+german: 
+germany: 
+gesture: 
+ghost: 
+giant: 
+gift: 
+gifted: 
+gigantic: 
+giggle: 
+ginger: 
+giraffe: 
+girl: 
+give: 
+given: 
+glad: ：
+glamor: 
+glamorous: 
+glance: 
+gland: 
+glare: 
+glasshouse: 
+glider: 
