@@ -1,50 +1,50 @@
-gauge: 
-gay: 
-gaze: 
-gear: ：
-gender: 
-gene: ：
-general: 
-generalization: 
-generalize: 
-generate: 
-generation: 
-generator: 
-generic: 
-generous: 
-genetic: :
-genius: 
-gentile: 
-gentle: 
-gentleman: 
-gently: 
-genuine: 
-geographical: 
-geography: 
-geology: 
-geometrical: 
-geometry: 
-georgia: :
-germ: 
-german: 
-germany: 
-gesture: 
-ghost: 
-giant: 
-gift: 
-gifted: 
-gigantic: 
-giggle: 
-ginger: 
-giraffe: 
-girl: 
-give: 
-given: 
-glad: ：
-glamor: 
-glamorous: 
-glance: 
-gland: 
-glare: 
-glasshouse: 
-glider: 
+glimpse: 
+glitter: 
+global: ：
+globe: 
+gloom: 
+gloomy: 
+glorify: ——
+glorious: ：
+glory: 
+glossary: 
+glove: 
+glow: 
+glue: 
+gnaw: 
+go: 
+goat: :
+god: ：
+goddess: 
+gold: 
+golden: :
+golf: 
+goneril: 
+good: 
+goods: 
+goose: 
+gorgeous: 
+gorilla: 
+gossip: 
+gothic: 
+govern: 
+government: 
+governor: 
+gown: 
+gps: 
+grab: 
+graceful: 
+gracious: 
+grade: 
+gradient: 
+gradual: 
+graduation: 
+grain: 
+grammar: 
+词根分析: 
+gramme: 
+gramophone: 
+grand: 
+grandchild: 
+grandfather: 
+grandma: :
