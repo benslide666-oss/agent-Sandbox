@@ -1,50 +1,50 @@
-grandmother: 
-grandpa: 
-grandparent: 
-grandparents: 
-grandson: :
-granite: 
-granny: 
-grape: 
-graph: 【】
-graphic: 
-graphite: ：
-grasp: 
-grass: 
-grassy: 
-grateful: ：
-gratitude: 
-grave: 
-gravity: 
-gray: 
-graze: 
-grease: 
-great: 
-greatly: 
-grecian: 
-greedy: 
-greek: 
-green: 
-greenhouse: 
-greenland: 
-greet: 
-greeting: 
-grey: :
-grief: 
-grieve: 
-griffin: 
-单词变形: 
-grin: 
-grind: 
-groan: ：
-grocer: 
-grocery: 
-groove: ：
-gross: :
-ground: 
-groundless: 
-groundlessly: 
-groundsheet: 
-group: 
-grove: 
-grow: ：
+growl: :
+growth: 
+gruel: 
+grumble: 
+grunt: 
+guarantee: 
+guard: ：
+guesstimate: 
+guest: 
+guidance: 
+guide: 
+guideline: 
+guilt: 
+guilty: 
+guinea: 
+guinness: 
+guitar: 
+gulf: 
+gum: 
+gun: 
+gunpowder: 
+gust: 
+gutter: 
+guy: 
+gy: :
+gym: 
+gymnasium: 
+gymnastics: 
+gypsy: 
+: 
+habit: 
+habitual: 
+hack: 
+hail: 
+hair: 
+haircut: 
+haiti: ：
+half: ：
+halfway: 
+halloween: 
+halt: 
+发展历史和文化背景: 
+ham: 
+hamburger: 
+hammer: 
+hampshire: 
+hand: 
+handbag: 
+handbook: 
+handful: 
