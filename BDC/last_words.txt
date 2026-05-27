@@ -1,50 +1,50 @@
-handgun: 
-handicap: 
-handkerchief: 
-handle: 
-handout: :
-handsome: 
-handtruck: ：
-handwriting: 
-handy: 
-hang: 
-happen: 
-happily: ：
-happiness: 
-happy: 
-harbour: 
-hard: :
-hardly: 
-hardship: 
-hardware: 
-hardy: 
-hare: 
-hari: 
-harm: :
-harmful: 
-harness: 
-harp: 
-harsh: 
-harvard: 
-harvest: :
-haste: 
-hasten: 
-hat: 
-hatch: 
-hate: 
-hateful: 
-hatred: 
-haughty: 
-haunt: 
-have: 
-hawaii: 
-hawk: 
-hay: 
-hayes: 
-hazardous: 
-he: 
-head: 
-headache: 
-heading: 
-headline: 
-headmistress: 
+headquarter: ：
+headteacher: 
+heal: 
+health: 
+healthy: ：
+heap: 
+hear: ：
+hearing: 
+heart: 
+hearth: 
+hearty: 
+heat: 
+heater: ：
+heating: 
+heave: 
+heaven: 
+heavily: 
+heavy: 
+hebrew: 
+hedge: 
+heel: 
+height: 
+heighten: 
+heir: 
+词缀分析: 
+hell: 
+hello: 
+helmet: 
+help: 
+helpful: 
+helpless: 
+hen: 
+hence: 
+henceforth: 
+henderson: ：
+her: 
+herald: ：
+herd: 
+here: 
+heritage: 
+hero: 
+heroic: 
+hers: :
+herself: 
+hesitant: 
+hesitate: 
+heterogeneity: 
+hey: 
+hi: 
+hibernate: 
