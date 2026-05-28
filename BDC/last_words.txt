@@ -1,50 +1,50 @@
-headquarter: ：
-headteacher: 
-heal: 
-health: 
-healthy: ：
-heap: 
-hear: ：
-hearing: 
-heart: 
-hearth: 
-hearty: 
-heat: 
-heater: ：
-heating: 
-heave: 
-heaven: 
-heavily: 
-heavy: 
-hebrew: 
-hedge: 
-heel: 
-height: 
-heighten: 
-heir: 
-词缀分析: 
-hell: 
-hello: 
-helmet: 
-help: 
-helpful: 
-helpless: 
-hen: 
-hence: 
-henceforth: 
-henderson: ：
-her: 
-herald: ：
-herd: 
-here: 
-heritage: 
-hero: 
-heroic: 
-hers: :
-herself: 
-hesitant: 
-hesitate: 
-heterogeneity: 
-hey: 
-hi: 
-hibernate: 
+hide: 
+hierarchy: :
+higgins: 
+high: 
+highlight: 
+highly: 
+highway: 
+hijack: ：
+hike: 
+hill: 
+hillside: 
+hilly: :
+himalaya: 
+himself: 
+hindi: 
+hindrance: 
+hindu: 
+hinduism: 
+hint: 
+hippomenes: 
+hire: 
+his: :
+hispanic: 
+hiss: 
+historian: 
+historic: 
+historical: 
+hit: 
+hiv: 
+hive: 
+hoarse: 
+hobart: 
+hoe: 
+hoist: 
+hold: 
+hole: 
+holiday: 
+holland: 
+hollow: 
+holly: 
+hollywood: 
+holy: 
+home: ：
+homeland: 
+homemaker: 
+hometown: 
+homework: 
+honest: 
+honesty: 
+honey: 
