@@ -1,50 +1,50 @@
-hide: 
-hierarchy: :
-higgins: 
-high: 
-highlight: 
-highly: 
-highway: 
-hijack: ：
-hike: 
-hill: 
-hillside: 
-hilly: :
-himalaya: 
-himself: 
-hindi: 
-hindrance: 
-hindu: 
-hinduism: 
-hint: 
-hippomenes: 
-hire: 
-his: :
-hispanic: 
-hiss: 
-historian: 
-historic: 
-historical: 
-hit: 
-hiv: 
-hive: 
-hoarse: 
-hobart: 
-hoe: 
-hoist: 
-hold: 
-hole: 
-holiday: 
-holland: 
-hollow: 
-holly: 
-hollywood: 
-holy: 
-home: ：
-homeland: 
-homemaker: 
-hometown: 
-homework: 
-honest: 
-honesty: 
-honey: 
+honeymoon: :
+honor: 
+honorary: 
+honour: :
+hooray: 
+hope: 
+hopeless: 
+horace: 
+horizon: 
+horizontal: 
+horn: 
+horrible: 
+horse: 
+horsepower: 
+hose: 
+hospitable: 
+hospital: 
+hospitality: 
+hospitalize: 
+host: 
+hostage: 
+hostess: :
+hostility: 
+hotel: 
+hound: 
+hour: 
+house: 
+housewife: 
+housework: 
+housing: 
+houston: :
+hover: 
+how: 
+howl: 
+hq: 
+hrh: 
+huddle: 
+hug: 
+huge: 
+human: 
+humanistic: 
+humanitarian: 
+humanity: 
+humble: 
+humid: 
+humidity: 
+humorous: 
+humour: 
+hundred: :
+hunger: 
