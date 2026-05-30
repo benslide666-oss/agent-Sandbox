@@ -1,50 +1,50 @@
-honeymoon: :
-honor: 
-honorary: 
-honour: :
-hooray: 
-hope: 
-hopeless: 
-horace: 
-horizon: 
-horizontal: 
-horn: 
-horrible: 
-horse: 
-horsepower: 
-hose: 
-hospitable: 
-hospital: 
-hospitality: 
-hospitalize: 
-host: 
-hostage: 
-hostess: :
-hostility: 
-hotel: 
-hound: 
-hour: 
-house: 
-housewife: 
-housework: 
-housing: 
-houston: :
-hover: 
-how: 
-howl: 
-hq: 
-hrh: 
-huddle: 
-hug: 
-huge: 
-human: 
-humanistic: 
-humanitarian: 
-humanity: 
-humble: 
-humid: 
-humidity: 
-humorous: 
-humour: 
-hundred: :
-hunger: 
+hungry: 
+hunter: 
+hur: :
+hurl: 
+hurrah: 
+hurricane: :
+hurt: 
+husband: 
+hush: 
+hussey: 1. ：
+hustle: ：
+hut: 
+hydraulic: 
+hymn: 
+hypothesis: 
+hysterical: 
+i: 
+ice: :
+iceberg: 
+iceland: 
+icy: 
+id: 
+ideal: 
+idealism: ：
+ideally: 
+identical: 
+identification: 
+identify: 
+identity: 
+ideological: 
+ideologically: 
+ideology: 
+idiom: 
+idiot: 
+idle: ：
+idleness: 
+if: 
+ignite: 
+ignorance: 
+ill: 
+illinois: 
+illiterate: :
+illness: 
+illusion: 
+illustrate: 
+illustration: 
+image: ：
+imaginary: 
+imaginative: :
+imbalance: 
