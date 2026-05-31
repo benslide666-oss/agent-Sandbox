@@ -1,50 +1,50 @@
-hungry: 
-hunter: 
-hur: :
-hurl: 
-hurrah: 
-hurricane: :
-hurt: 
-husband: 
-hush: 
-hussey: 1. ：
-hustle: ：
-hut: 
-hydraulic: 
-hymn: 
-hypothesis: 
-hysterical: 
-i: 
-ice: :
-iceberg: 
-iceland: 
-icy: 
-id: 
-ideal: 
-idealism: ：
-ideally: 
-identical: 
-identification: 
-identify: 
-identity: 
-ideological: 
-ideologically: 
-ideology: 
-idiom: 
-idiot: 
-idle: ：
-idleness: 
-if: 
-ignite: 
-ignorance: 
-ill: 
-illinois: 
-illiterate: :
-illness: 
-illusion: 
-illustrate: 
-illustration: 
-image: ：
-imaginary: 
-imaginative: :
-imbalance: 
+imitate: 
+imitation: 
+immeasurable: :
+immediate: ：
+immediately: 
+immense: 
+immensely: 
+immerse: 
+immersive: ：
+immigrant: 
+immigrate: 
+immigration: 
+imminent: 
+immobile: ：
+immortal: 
+immune: 
+impair: 
+impart: :
+impatient: 
+imperative: ：
+impermanency: ：
+impermanent: 
+impetus: ：
+implement: 
+implementation: 
+词根分析: 
+implicit: 
+implore: 
+import: 
+importance: 
+important: 
+impose: :
+impossible: 
+impress: 
+impression: 
+impressionism: 
+impressive: 
+imprison: 
+improper: 
+improve: 
+improvement: 
+impulse: 
+impulsive: 
+impurity: 
+inaccessible: 
+inaccurate: 
+inadequacy: 
+inadequate: 
+inanimate: 
+inappropriate: ：
