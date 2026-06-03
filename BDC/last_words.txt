@@ -1,50 +1,50 @@
-induction: ：Induction 这个单词最初的意思是“引入”，常用于描述一种理论方法，即从
-indulge: 
-indus: 
-industrial: 
-industrialize: 
-industrious: 
-industry: ：
-ineffective: 
-inertia: :
-inescapable: 
-inevitable: 
-inevitably: 
-inexhaustible: 
-infant: :
-infect: 
-infectious: 
-inference: 
-inferiority: 
-infinite: 
-infinity: 
-inflation: 
-inflict: 
-influential: 
-inform: 
-information: 
-ingenious: 
-ingenuity: 
-ingredient: 
-inhabit: 
-inhabitant: ：
-inhale: 
-inherent: 
-inherit: 
-inheritance: 
-inhibit: 
-initially: 
-initiate: 
-initiative: 
-inject: 
-injection: 
-injure: 
-injustice: 
-ink: 
-小故事: ###
-inlet: :
-inn: :
-inner: 
-innocent: 
-innovate: :
-innovation: 
+innovative: 
+innumerable: 
+inorganic: 
+inquire: 
+inquiry: 
+insane: ：
+insect: :
+insert: 
+inside: 
+insignificant: 
+insist: 
+insistent: 
+inspect: 
+inspection: 
+inspector: 
+inspiration: 
+inspire: 
+instability: 
+install: 
+installation: 
+instance: 
+instantaneous: 
+instantly: 
+instead: 
+instinct: 
+instinctively: 
+institute: 
+institution: 
+instruct: 
+instruction: 
+instructional: 
+instructor: 
+instrument: 
+instrumental: 
+insulate: 
+insulator: 
+insult: 
+记忆辅助: 
+insure: ：
+insurer: 
+intact: 
+intake: 
+integral: :
+integration: 
+integrity: 
+intellect: 
+intelligence: 
+intelligent: 
+intelligible: 
+intend: 
