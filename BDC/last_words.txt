@@ -1,50 +1,50 @@
-innovative: 
-innumerable: 
-inorganic: 
-inquire: 
-inquiry: 
-insane: ：
-insect: :
-insert: 
-inside: 
-insignificant: 
-insist: 
-insistent: 
-inspect: 
-inspection: 
-inspector: 
-inspiration: 
-inspire: 
-instability: 
-install: 
-installation: 
-instance: 
-instantaneous: 
-instantly: 
-instead: 
-instinct: 
-instinctively: 
-institute: 
-institution: 
-instruct: 
-instruction: 
-instructional: 
-instructor: 
-instrument: 
-instrumental: 
-insulate: 
-insulator: 
-insult: 
-记忆辅助: 
-insure: ：
-insurer: 
-intact: 
-intake: 
-integral: :
-integration: 
-integrity: 
-intellect: 
-intelligence: 
-intelligent: 
-intelligible: 
-intend: 
+intense: 
+intensely: 
+intensify: 
+intensity: 
+intensive: 
+intent: 
+intention: 
+interact: ：
+interaction: 
+interactive: 
+interconnect: 
+intercourse: 
+interest: 
+interface: 
+interfere: 
+interim: 
+interior: 
+intermediate: 
+intermittent: ：
+interpersonal: 
+interpret: 
+interpretation: 
+interracial: 
+interrupt: ：
+interruption: 
+intersection: :
+intertwine: 
+interval: 
+intervene: 
+interview: 
+intimate: 
+intimidate: 
+into: 
+intolerant: :
+intricate: 
+intrigue: 
+intriguing: 
+intrinsic: 
+introduce: 
+introduction: 
+intuition: 
+intuitive: 
+inuit: 
+invade: 
+invalid: 
+invaluable: 
+invariably: 
+invasion: 
+invasive: 
+invent: 
