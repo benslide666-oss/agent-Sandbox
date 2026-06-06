@@ -1,50 +1,50 @@
-invention: 
-inventory: :
-inversely: 
-invert: 
-invest: :
-investigate: 
-investigation: 
-investment: 
-invisible: 
-invitation: ：
-invite: 
-invoice: 
-involve: 
-involvement: 
-inward: 
-ion: 
-iraq: :
-irish: :
-irony: 
-iroquois: 
-irregular: 
-irregularity: 
-irrelevant: 
-irrespective: 
-irreversible: ：
-irrigate: 
-irrigation: 
-irritate: ：
-island: 
-isle: 
-isolate: 
-isolation: 
-israeli: 
-issue: 
-italian: :
-italy: 
-item: 
-ithaca: ：
-its: 
-ivory: 
-jack: 
-jacket: 
-jail: 
-jam: 
-jamie: 
-janice: :
-january: 
-japan: 
-jar: 
-jason: 
+jaw: 
+jazz: 
+jealous: 
+jealousy: 
+jean: 
+jeans: 
+jeep: 
+jem: 
+jerry: 
+jessica: :
+jesus: 
+jet: 
+jewel: ：
+jewellery: 
+jewett: 
+jingle: 
+job: 
+jog: 
+johannesburg: :
+join: 
+joint: 
+joke: 
+jordan: 
+joseph: 
+journal: 
+journey: :
+joy: 
+joyful: 
+judge: 
+judgement: 
+judicial: ：
+jug: 
+juice: 
+juicy: 
+julie: 
+july: 
+jump: 
+junction: 
+june: 
+jungle: 
+junior: ：
+junk: 
+jupiter: 
+jury: 
+just: 
+justice: 
+justifiable: 
+justification: 
+justified: 
+justify: 
