@@ -1,50 +1,50 @@
-jaw: 
-jazz: 
-jealous: 
-jealousy: 
-jean: 
-jeans: 
-jeep: 
-jem: 
-jerry: 
-jessica: :
-jesus: 
-jet: 
-jewel: ：
-jewellery: 
-jewett: 
-jingle: 
-job: 
-jog: 
-johannesburg: :
-join: 
-joint: 
-joke: 
-jordan: 
-joseph: 
-journal: 
-journey: :
-joy: 
-joyful: 
-judge: 
-judgement: 
-judicial: ：
-jug: 
-juice: 
-juicy: 
-julie: 
-july: 
-jump: 
-junction: 
-june: 
-jungle: 
-junior: ：
-junk: 
-jupiter: 
-jury: 
-just: 
-justice: 
-justifiable: 
-justification: 
-justified: 
-justify: 
+juvenile: 
+kakadu: 
+kangaroo: 
+karaoke: 
+katherine: ：
+katie: 
+keen: 
+keenly: 
+keep: 
+keeper: 
+kelvin: 
+ken: 
+kernel: 
+kettle: :
+key: 
+keyboard: 
+kick: 
+kid: 
+kidnap: 
+kidney: 
+kill: 
+kilogram: 
+kilometer: 
+kilometre: 
+kind: ：
+kindergarten: 
+kindle: 
+kindness: 
+kinetic: 
+kingdom: 
+kiss: 
+kitchen: 
+kite: 
+kitty: 
+knee: 
+kneel: 
+knife: 
+knight: 
+knit: 
+knob: 
+knock: 【】
+know: 
+knowledge: 
+konigsberg: 
+koran: 
+lab: 
+laboratory: 
+laborious: 
+labour: 
+labourer: 
