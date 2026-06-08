@@ -1,50 +1,50 @@
-juvenile: 
-kakadu: 
-kangaroo: 
-karaoke: 
-katherine: ：
-katie: 
-keen: 
-keenly: 
-keep: 
-keeper: 
-kelvin: 
-ken: 
-kernel: 
-kettle: :
-key: 
-keyboard: 
-kick: 
-kid: 
-kidnap: 
-kidney: 
-kill: 
-kilogram: 
-kilometer: 
-kilometre: 
-kind: ：
-kindergarten: 
-kindle: 
-kindness: 
-kinetic: 
-kingdom: 
-kiss: 
-kitchen: 
-kite: 
-kitty: 
-knee: 
-kneel: 
-knife: 
-knight: 
-knit: 
-knob: 
-knock: 【】
-know: 
-knowledge: 
-konigsberg: 
-koran: 
-lab: 
-laboratory: 
-laborious: 
-labour: 
-labourer: 
+lace: 
+lack: 
+lad: 
+ladder: 
+lady: 
+lag: 
+lake: 
+lamb: 
+lame: 
+lamp: 
+land: :
+landlady: 
+landlord: 
+landmark: 
+landscape: ：
+lane: 
+language: 
+lantern: 
+laos: 
+laotian: 
+lap: 
+large: 
+largely: 
+laser: 
+last: 
+late: 
+lately: 
+latent: :
+later: 
+lathe: 
+latin: 
+latitude: 
+latter: 
+lattice: 
+laugh: ：
+laughter: 
+launch: 
+laundry: ：
+lausanne: 
+lavatory: 
+lawn: 
+lawsuit: 
+lawyer: 
+layer: 
+layman: 
+layoff: 
+layout: :
+lazy: 
+lead: 
+leader: 
