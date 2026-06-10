@@ -1,50 +1,50 @@
-leadership: 
-leading: 
-leaf: 
-leaflet: 
-league: 
-leap: 
-learn: 
-learning: 
-leather: 
-leave: 
-lecture: 
-left: 
-leftover: 
-leg: :
-legal: 
-legalize: 
-legend: 
-legislation: 
-legislator: 
-legitimate: 
-leisure: ：
-lemon: ：
-lemonade: 
-lend: :
-lengthen: 
-lengthy: 
-leningrad: 
-lens: 
-leopard: 
-less: 
-lessen: ：
-lesson: 
-lest: 
-lester: 
-let: 
-letter: 
-level: 
-lever: 
-levy: 
-lia: 
-liability: 
-liable: 
-liberal: 
-liberate: 
-liberation: 
-liberty: 
-librarian: 
-library: 
-license: 
-lick: :
+lid: 
+lieutenant: 
+life: 
+lifetime: ：
+lift: :
+light: ：
+lighten: 
+lightly: 
+lightning: 
+like: 
+likeness: 
+lily: 
+limb: ：
+lime: :
+limestone: 
+limit: 
+limitation: 
+limited: 
+limp: 
+line: 
+linear: 
+linen: 
+liner: 
+linger: 
+link: 
+lion: 
+lip: ：
+lipstick: 
+liquid: :
+list: 
+listen: 
+listener: 
+liter: 
+literacy: 
+literal: 
+literally: 
+literary: 
+literature: 
+litre: 
+little: :
+live: 
+liver: 
+living: 
+loaf: 
+loan: 
+lobby: ：
+lobbyist: 
+locality: 
+locate: 
+location: 
