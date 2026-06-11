@@ -1,50 +1,50 @@
-lid: 
-lieutenant: 
-life: 
-lifetime: ：
-lift: :
-light: ：
-lighten: 
-lightly: 
-lightning: 
-like: 
-likeness: 
-lily: 
-limb: ：
-lime: :
-limestone: 
-limit: 
-limitation: 
-limited: 
-limp: 
-line: 
-linear: 
-linen: 
-liner: 
-linger: 
-link: 
-lion: 
-lip: ：
-lipstick: 
-liquid: :
-list: 
-listen: 
-listener: 
-liter: 
-literacy: 
-literal: 
-literally: 
-literary: 
-literature: 
-litre: 
-little: :
-live: 
-liver: 
-living: 
-loaf: 
-loan: 
-lobby: ：
-lobbyist: 
-locality: 
-locate: 
-location: 
+locomotive: 
+locust: 
+lofty: 
+log: :
+logic: 
+logical: 
+logically: 
+london: 
+lonely: ：
+longevity: 
+longitude: 
+loom: 
+loose: 
+loosely: 
+loosen: 
+lord: 
+lori: 
+lorry: 
+lose: 
+loss: 
+lost: 
+lot: 
+loud: 
+loudly: 
+lounge: 
+lovely: 
+lowa: 
+lower: 
+loyal: 
+loyalty: 
+lubricate: 
+luck: ：
+luggage: 
+lumber: 
+luminous: 
+lump: 
+lunar: 
+lunch: 
+luncheon: 
+lung: 
+lure: 
+luxurious: 
+: 
+machine: 
+machinery: ：
+mad: :
+madison: 
+mafia: 
+magazine: ：
+magic: :
