@@ -1,50 +1,50 @@
-magician: 
-magistrate: 
-magnet: ：
-magnetic: 
-magnetism: 
-magnificent: 
-magnify: 
-magnitude: ：Magnitude，词义一般多种方向的，大致可以有以下几类：一种是代表“大小、
-maid: 
-maiden: 
-main: 
-maine: 
-mainframe: 
-mainland: 
-mainly: :
-maintain: 
-maintenance: 
-majesty: 
-major: 
-majority: 
-make: ：
-makeup: 
-malawi: 
-malaysia: 
-male: 
-malfunction: 
-malicious: 
-mall: :
-mammal: 
-man: 
-manage: 
-management: 
-manager: 【】
-manchu: 
-maneuver: 
-manhattan: 
-manifest: 
-manipulate: 
-mankind: ：
-manly: :
-manner: 
-mansion: 
-manual: 
-manufacturer: 
-manuscript: 
-many: 
-maori: 
-maple: 
-marathon: 
-marble: 
+margin: ：
+marginal: 
+marginalize: 
+margot: :
+maria: ：
+marion: 
+mark: :
+markedly: 
+market: 
+marriage: 
+married: 
+marry: 
+mars: 
+marsh: 
+marshal: ：
+martini: 
+martyr: 
+marvel: 
+marvellous: 
+marvelous: 
+marxism: 
+marxist: ：
+masculine: 
+mask: 
+massachusetts: 
+massacre: 
+massive: 
+mast: 
+masterpiece: 
+mat: 
+mate: 
+materialism: 
+materialize: 
+mathematical: ：
+mathematics: 
+matisse: 
+matter: 
+mature: 
+maturity: 
+mauritius: 
+maximum: 
+may: 
+mayella: 
+me: 
+meadow: 
+meal: 
+mean: 
+meaning: 
+meantime: 
+meanwhile: 
