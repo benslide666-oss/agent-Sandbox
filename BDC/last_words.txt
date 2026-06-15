@@ -1,50 +1,50 @@
-measurable: 
-measurement: 
-meat: 
-mechanic: 
-mechanical: 
-medal: 
-media: 
-mediate: 
-medicaid: 
-medicine: 
-medieval: 
-meditate: 
-mediterranean: 
-medium: 
-meet: 
-mekong: 
-melancholy: 
-melbourne: 
-melody: 
-melon: 
-member: 
-membership: 
-memo: 
-memorable: 
-memorandum: 
-memorial: 
-memorize: 
-memory: 
-menace: 
-mend: 
-mental: 
-mention: ：
-menu: 
-merchandise: 
-merciful: 
-mercury: :
-mercy: 
-merely: 
-merge: 
-merit: 
-merry: 
-mesolithic: 
-mess: 
-message: 
-messenger: 
-messiah: ：
-messy: 
-metal: 
-metallic: 
-metallurgy: 
+meter: 
+method: :
+metre: 
+metric: 
+metro: 
+metropolitan: 
+mexican: 
+mexico: 
+miami: 
+michelangelo: 
+michigan: :
+microcomputer: 
+microprocessor: 
+microscope: 
+microscopic: ：
+microwave: 
+midday: 
+middle: 
+midlands: 
+midnight: 
+midst: 
+might: 
+mighty: 
+migrant: 
+migrate: 
+migration: 
+mild: 
+mile: 
+milestone: 
+military: 
+milk: 
+milky: 
+mill: 
+million: 
+millionaire: 
+mind: 
+miner: ：
+mineral: 
+mingle: 
+miniature: 任务一：
+minibus: 
+minimal: :
+minimize: 
+minimum: 
+mining: 
+miniskirt: 
+minister: ：
+ministry: 
+minneapolis: 
+minnesota: 
