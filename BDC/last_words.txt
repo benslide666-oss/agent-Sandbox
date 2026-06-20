@@ -1,50 +1,50 @@
-nail: 
-naive: 
-name: 
-namely: 
-nap: ：
-napkin: 
-narration: 
-nation: 
-national: 
-nationality: 
-nationwide: :
-native: 
-natural: 
-naturally: 
-naughty: 
-naval: 
-navigate: 
-navigation: ：
-navy: 
-near: 
-nearby: 
-nearly: 
-neat: :
-necessary: 
-necessitate: 
-neck: 
-necklace: 
-necktie: 
-need: 
-needle: 
-needless: 
-needy: 
-negative: 
-neglect: 
-negligible: 
-negotiate: 
-negotiation: 
-neighbourhood: 
-neighbouring: ：
-neither: 
-neolithic: 
-nepal: 
-nephew: 
-nerve: 
-nervous: 
-nest: 
-netherland: 
-netherlands: 
-network: 
-neutral: 
+neutrality: 
+neutron: 
+never: 
+nevertheless: 
+new: 
+newly: 
+news: ：
+newspaper: 
+newsstand: 
+next: 
+niagara: ：
+nickel: 
+nickname: 
+niece: ：
+night: 
+nightmare: 
+nine: 
+nineteen: 
+ninety: 
+ninth: 
+nitrogen: 
+no: 
+noble: 
+nobody: 
+nod: 
+noise: 
+noisily: 
+noisy: 
+nominal: 
+nominate: 
+nonsense: 
+noodle: ：
+noon: 
+nor: 
+norm: 
+normal: 
+normally: 
+norman: 
+northeast: 
+northern: 
+northwards: ：
+northwest: 
+norway: 
+norwegian: 
+nose: 
+not: 
+notable: 
+notably: 
+notation: 
+note: 
