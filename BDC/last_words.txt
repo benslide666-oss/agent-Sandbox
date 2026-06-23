@@ -1,50 +1,50 @@
-obscurity: 
-observation: 
-observe: 
-obstacle: 
-obstinate: 
-obtain: :
-obvious: 
-obviously: 
-occasion: 
-occasional: 
-occasionally: 
-occupation: 
-occur: :
-occurrence: 
-ocean: 
-oceania: 
-october: 
-odd: 
-odds: 
-odor: 
-odour: 
-odysseus: 
-of: 
-off: 
-offence: 
-offend: 
-offense: 
-offensive: 
-office: 
-official: 
-offset: 
-offshore: 
-offspring: 
-often: 
-oh: 
-ohm: :
-oil: 
-ok: 
-okay: 
-oklahoma: 
-old: 
-olive: 
-oliver: 
-olympic: 
-olympics: 
-omelette: 
-on: 
-once: 
-oneself: 
-ongoing: 
+onion: 
+only: 
+ontario: 
+open: 
+opener: 
+opening: 
+opera: 
+operate: 
+operation: 
+operational: 
+operator: :
+opinion: 
+opponent: 
+opportunity: 
+oppose: 
+opposite: 
+opposition: 
+oppress: 
+optical: 
+optimism: 
+optimistic: 
+optimum: 
+optional: 
+or: 
+oral: 
+orange: ：
+orchard: 
+orchestra: 
+order: 
+orderly: 
+ordinarily: 
+ordinary: 
+oregon: :
+organ: 
+organic: 
+organise: 
+organiser: 
+organism: :
+organization: 
+organize: :
+orient: 
+oriental: 
+orientation: ：
+origin: 
+original: 
+originate: 
+ornament: 
+ornamental: 
+orson: 
+orthodox: 
