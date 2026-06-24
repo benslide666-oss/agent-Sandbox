@@ -1,50 +1,50 @@
-onion: 
-only: 
-ontario: 
-open: 
-opener: 
-opening: 
-opera: 
-operate: 
-operation: 
-operational: 
-operator: :
-opinion: 
-opponent: 
-opportunity: 
-oppose: 
-opposite: 
-opposition: 
-oppress: 
-optical: 
-optimism: 
-optimistic: 
-optimum: 
-optional: 
-or: 
-oral: 
-orange: ：
-orchard: 
-orchestra: 
-order: 
-orderly: 
-ordinarily: 
-ordinary: 
-oregon: :
-organ: 
-organic: 
-organise: 
-organiser: 
-organism: :
-organization: 
-organize: :
-orient: 
-oriental: 
-orientation: ：
-origin: 
-original: 
-originate: 
-ornament: 
-ornamental: 
-orson: 
-orthodox: 
+oscar: 
+oswald: 
+other: 
+ottawa: 
+ouch: 
+ought: 
+our: 
+ours: 
+ourselves: ：
+out: 
+outbreak: 
+outcome: 
+outcry: 
+outdated: 
+outdoor: 
+outer: 
+outermost: 
+outfit: :
+outgoing: 
+outlaw: 
+outline: 
+outlive: 
+outlook: :
+outnumber: :
+outperform: 
+output: 
+outrage: 
+outset: :
+outside: 
+outskirt: 
+outsource: 
+outspoken: 
+outward: :
+outwards: ：
+outweigh: 
+oval: 
+oven: ：
+over: 
+overcharge: 
+overcome: 
+overestimate: 
+overexcited: 
+overflow: 
+overhang: 
+overhead: 
+overhear: :
+overlap: 
+overload: 
+overlook: 
+overnight: :
