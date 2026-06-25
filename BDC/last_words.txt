@@ -1,50 +1,50 @@
-oscar: 
-oswald: 
-other: 
-ottawa: 
-ouch: 
-ought: 
-our: 
-ours: 
-ourselves: ：
-out: 
-outbreak: 
-outcome: 
-outcry: 
-outdated: 
-outdoor: 
-outer: 
-outermost: 
-outfit: :
-outgoing: 
-outlaw: 
-outline: 
-outlive: 
-outlook: :
-outnumber: :
-outperform: 
-output: 
-outrage: 
-outset: :
-outside: 
-outskirt: 
-outsource: 
-outspoken: 
-outward: :
-outwards: ：
-outweigh: 
-oval: 
-oven: ：
-over: 
-overcharge: 
-overcome: 
-overestimate: 
-overexcited: 
-overflow: 
-overhang: 
-overhead: 
-overhear: :
-overlap: 
-overload: 
-overlook: 
-overnight: :
+overseas: 
+overstate: 
+overt: 
+overtake: 
+overthrow: 
+overturn: 
+overwhelming: 
+owe: :
+owing: ：
+own: 
+owner: ：
+ownership: 
+ox: 
+oxide: 
+oxygen: 
+oyster: 
+: 
+p.m.: 
+pacific: 
+pack: 
+package: 
+pact: 
+pad: 
+paddle: 
+page: 
+pain: 
+painful: 
+paint: 
+painter: 
+painting: 
+pair: 
+pakistan: 
+pakistani: 
+pal: 
+palace: 
+pale: 
+pamphlet: 
+pan: 
+pancake: 
+panda: 
+panic: 
+pant: 
+panther: 
+pantry: 
+paper: 
+paperback: 
+paperwork: 
+papua: 
+parachute: 
+parade: 
