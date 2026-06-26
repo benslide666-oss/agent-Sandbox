@@ -1,50 +1,50 @@
-overseas: 
-overstate: 
-overt: 
-overtake: 
-overthrow: 
-overturn: 
-overwhelming: 
-owe: :
-owing: ：
-own: 
-owner: ：
-ownership: 
-ox: 
-oxide: 
-oxygen: 
-oyster: 
-: 
-p.m.: 
-pacific: 
-pack: 
-package: 
-pact: 
-pad: 
-paddle: 
-page: 
-pain: 
-painful: 
-paint: 
-painter: 
-painting: 
-pair: 
-pakistan: 
-pakistani: 
-pal: 
-palace: 
-pale: 
-pamphlet: 
-pan: 
-pancake: 
-panda: 
-panic: 
-pant: 
-panther: 
-pantry: 
-paper: 
-paperback: 
-paperwork: 
-papua: 
-parachute: 
-parade: 
+paradise: 
+paradox: 
+paragraph: 
+parallel: :
+paralyse: 
+paralysis: 
+paralyze: :
+parameter: 
+parasite: 
+parcel: 
+pardon: 
+parent: 
+paris: 
+parisian: 
+park: 
+parliament: 
+parrot: 
+partial: 
+participant: 
+participate: 
+particular: 
+particularly: 
+partition: 
+partly: 
+party: ：
+passage: 
+passion: 
+passionate: 
+passive: 
+passively: 
+passport: :
+paste: 
+pastime: 
+pasture: 
+patch: 
+patent: 
+paternity: 
+path: 
+pathetic: 
+patience: 
+patient: ：
+patiently: 
+patriot: :
+patriotic: 
+patrol: 
+patron: 
+pattern: 
+paula: ：
+pausanias: 
+pause: 
