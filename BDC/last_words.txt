@@ -1,50 +1,50 @@
-paradise: 
-paradox: 
-paragraph: 
-parallel: :
-paralyse: 
-paralysis: 
-paralyze: :
-parameter: 
-parasite: 
-parcel: 
-pardon: 
-parent: 
-paris: 
-parisian: 
-park: 
-parliament: 
-parrot: 
-partial: 
-participant: 
-participate: 
-particular: 
-particularly: 
-partition: 
-partly: 
-party: ：
-passage: 
-passion: 
-passionate: 
-passive: 
-passively: 
-passport: :
-paste: 
-pastime: 
-pasture: 
-patch: 
-patent: 
-paternity: 
-path: 
-pathetic: 
-patience: 
-patient: ：
-patiently: 
-patriot: :
-patriotic: 
-patrol: 
-patron: 
-pattern: 
-paula: ：
-pausanias: 
-pause: 
+pave: 
+paw: 
+pawnee: 
+pay: 
+payroll: 
+pc: 
+pda: 
+pea: 
+peace: 
+peaceful: 
+peach: 
+peacock: 
+peak: 
+pear: 
+pearl: ：
+peasant: 
+peck: 
+peculiar: 
+pedestrian: 
+pedlar: 
+peel: :
+peer: 
+peg: 
+pen: :
+penelope: 
+penetrate: 
+penetration: 
+penguin: 
+peninsula: 
+pennsylvania: 
+penny: 
+pension: 
+people: 
+pepper: 
+per: 
+perceive: 
+percent: 
+percentage: 
+perception: 
+perch: 
+perfect: 
+perfection: 
+perform: 
+performance: （Semantics)：
+performer: 
+perfume: 
+perhaps: 
+peril: 
+perimeter: 
+period: ：
