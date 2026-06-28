@@ -1,50 +1,50 @@
-pave: 
-paw: 
-pawnee: 
-pay: 
-payroll: 
-pc: 
-pda: 
-pea: 
-peace: 
-peaceful: 
-peach: 
-peacock: 
-peak: 
-pear: 
-pearl: ：
-peasant: 
-peck: 
-peculiar: 
-pedestrian: 
-pedlar: 
-peel: :
-peer: 
-peg: 
-pen: :
-penelope: 
-penetrate: 
-penetration: 
-penguin: 
-peninsula: 
-pennsylvania: 
-penny: 
-pension: 
-people: 
-pepper: 
-per: 
-perceive: 
-percent: 
-percentage: 
-perception: 
-perch: 
-perfect: 
-perfection: 
-perform: 
-performance: （Semantics)：
-performer: 
-perfume: 
-perhaps: 
-peril: 
-perimeter: 
-period: ：
+periodic: 
+periodical: ：
+peripheral: 
+perish: 
+permanent: 
+permeate: :
+permission: 
+permit: 
+perpendicular: 
+perpetual: 
+perplex: 
+persecute: 
+perseus: ：
+persevere: 
+persian: 
+persist: 
+persistence: :
+persistent: 
+person: 
+personal: 
+personality: 
+personally: 
+personnel: 
+perspective: 
+persuade: 
+persuasive: 
+perth: 
+pertinent: 
+peru: 
+pessimist: 
+pessimistic: 
+pet: 
+petition: 
+petroleum: 
+petty: ：
+phase: 
+phd: :
+phenomenon: 
+philadelphia: 
+philippine: 
+philosopher: 
+philosophy: 
+phone: 
+phosphorus: 
+phosphorusp: :
+photo: :
+photoelectric: 
+photograph: 
+photographer: 
+phrase: 
