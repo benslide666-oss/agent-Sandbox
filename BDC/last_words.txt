@@ -1,50 +1,50 @@
-periodic: 
-periodical: ：
-peripheral: 
-perish: 
-permanent: 
-permeate: :
-permission: 
-permit: 
-perpendicular: 
-perpetual: 
-perplex: 
-persecute: 
-perseus: ：
-persevere: 
-persian: 
-persist: 
-persistence: :
-persistent: 
-person: 
-personal: 
-personality: 
-personally: 
-personnel: 
-perspective: 
-persuade: 
-persuasive: 
-perth: 
-pertinent: 
-peru: 
-pessimist: 
-pessimistic: 
-pet: 
-petition: 
-petroleum: 
-petty: ：
-phase: 
-phd: :
-phenomenon: 
-philadelphia: 
-philippine: 
-philosopher: 
-philosophy: 
-phone: 
-phosphorus: 
-phosphorusp: :
-photo: :
-photoelectric: 
-photograph: 
-photographer: 
-phrase: 
+physical: 
+physically: 
+physician: 
+physicist: 
+physics: 
+physiological: 
+pianist: 
+piano: 
+pick: 
+pickering: 
+pickle: 
+picky: 
+picture: 
+pie: 
+piece: 
+pier: ：
+pig: 
+pile: 
+pilgrim: 
+pill: 
+pillar: 
+pillow: 
+pilot: ：
+pin: 
+pinch: :
+pine: 
+pineapple: 
+pink: 
+pint: :
+pioneer: 
+pious: 
+pipe: 
+pirate: 
+pistol: 
+piston: 
+pit: 
+pitch: 
+place: 
+plague: 
+plan: 
+plane: 
+planet: 
+planetary: 
+plant: 
+plaster: 
+plastic: 
+plateau: 
+platform: 
+plausible: 
+play: :
