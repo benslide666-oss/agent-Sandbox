@@ -1,50 +1,50 @@
-physical: 
-physically: 
-physician: 
-physicist: 
-physics: 
-physiological: 
-pianist: 
-piano: 
-pick: 
-pickering: 
-pickle: 
-picky: 
-picture: 
-pie: 
-piece: 
-pier: ：
-pig: 
-pile: 
-pilgrim: 
-pill: 
-pillar: 
-pillow: 
-pilot: ：
-pin: 
-pinch: :
-pine: 
-pineapple: 
-pink: 
-pint: :
-pioneer: 
-pious: 
-pipe: 
-pirate: 
-pistol: 
-piston: 
-pit: 
-pitch: 
-place: 
-plague: 
-plan: 
-plane: 
-planet: 
-planetary: 
-plant: 
-plaster: 
-plastic: 
-plateau: 
-platform: 
-plausible: 
-play: :
+player: 
+playground: :
+playroom: 
+pleasant: 
+please: 
+pleased: 
+pleasure: 
+pleistocene: 
+plentiful: ：
+plenty: 
+plough: 
+pluck: 
+plug: 
+plump: 
+plunge: 
+plural: 
+pluralism: 
+plus: 
+pneumatic: 
+pocket: 
+poem: 
+poet: 
+poetry: ：
+pointless: 
+poison: 
+poisonous: 
+poke: ：
+polar: ：
+polarity: 
+policeman: 
+polite: 
+politician: 
+politics: :
+poll: 
+pollutant: 
+pollute: 
+pollution: 
+polymer: 
+pompeii: 
+pond: ：
+ponder: ：
+pool: 
+poor: 
+pop: 
+popcorn: 
+pope: 
+popular: 
+popularity: 
+popularize: 
+population: 
