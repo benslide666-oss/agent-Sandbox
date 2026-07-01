@@ -1,50 +1,50 @@
-player: 
-playground: :
-playroom: 
-pleasant: 
-please: 
-pleased: 
-pleasure: 
-pleistocene: 
-plentiful: ：
-plenty: 
-plough: 
-pluck: 
-plug: 
-plump: 
-plunge: 
-plural: 
-pluralism: 
-plus: 
-pneumatic: 
-pocket: 
-poem: 
-poet: 
-poetry: ：
-pointless: 
-poison: 
-poisonous: 
-poke: ：
-polar: ：
-polarity: 
-policeman: 
-polite: 
-politician: 
-politics: :
-poll: 
-pollutant: 
-pollute: 
-pollution: 
-polymer: 
-pompeii: 
-pond: ：
-ponder: ：
-pool: 
-poor: 
-pop: 
-popcorn: 
-pope: 
-popular: 
-popularity: 
-popularize: 
-population: 
+porcelain: 
+记忆辅助: 
+pore: 
+pork: 
+porridge: 
+port: 
+portable: 
+portion: 
+portrait: 
+portray: 
+portugal: 
+pose: 
+position: 
+possess: 
+possibility: 
+possible: :
+post: 
+postage: ：
+postal: 
+postbox: 
+postcard: 
+postcode: 
+postdoctoral: 
+poster: 
+postgraduate: 
+postpone: 
+postulate: 
+posture: 
+potato: 
+potential: 
+potentially: 
+poultry: 
+pound: 
+pour: 
+poverty: 
+powder: ：
+power: 
+powerful: 
+practicable: 
+practical: 
+practically: 
+practice: 
+practise: ：
+praise: ：
+preach: 
+precaution: 
+precede: 
+precedent: 
+preceding: 
+precious: 
