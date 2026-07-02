@@ -1,50 +1,50 @@
-porcelain: 
-记忆辅助: 
-pore: 
-pork: 
-porridge: 
-port: 
-portable: 
-portion: 
-portrait: 
-portray: 
-portugal: 
-pose: 
-position: 
-possess: 
-possibility: 
-possible: :
-post: 
-postage: ：
-postal: 
-postbox: 
-postcard: 
-postcode: 
-postdoctoral: 
-poster: 
-postgraduate: 
-postpone: 
-postulate: 
-posture: 
-potato: 
-potential: 
-potentially: 
-poultry: 
-pound: 
-pour: 
-poverty: 
-powder: ：
-power: 
-powerful: 
-practicable: 
-practical: 
-practically: 
-practice: 
-practise: ：
-praise: ：
-preach: 
-precaution: 
-precede: 
-precedent: 
-preceding: 
-precious: 
+preclude: 
+predecessor: 
+predestine: 
+predictable: 
+prediction: 
+predominant: 
+predominantly: 
+preface: 
+prefer: 
+preference: 
+preferentially: ：
+pregnancy: 
+pregnant: 
+prejudice: 
+premature: 
+prematurely: :
+premise: 
+premium: 
+preparatory: 
+prepare: ：
+prescient: 
+prescribe: 
+prescription: 
+presence: :
+present: 
+发展历史和文化背景: 
+preservation: 
+preserve: 
+preset: 
+preside: 
+presidency: 
+president: 
+prestige: 
+presumably: :
+presume: 
+pretend: 
+pretext: 
+pretty: 
+prevailing: ：
+prevalence: 
+prevalent: 
+prevent: 
+preventable: 
+preventive: 
+preview: 
+previous: 
+previously: 
+prey: 
+price: 
+priceless: 
