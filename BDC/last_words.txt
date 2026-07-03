@@ -1,50 +1,50 @@
-preclude: 
-predecessor: 
-predestine: 
-predictable: 
-prediction: 
-predominant: 
-predominantly: 
-preface: 
-prefer: 
-preference: 
-preferentially: ：
-pregnancy: 
-pregnant: 
-prejudice: 
-premature: 
-prematurely: :
-premise: 
-premium: 
-preparatory: 
-prepare: ：
-prescient: 
-prescribe: 
-prescription: 
-presence: :
-present: 
-发展历史和文化背景: 
-preservation: 
-preserve: 
-preset: 
-preside: 
-presidency: 
-president: 
-prestige: 
-presumably: :
-presume: 
-pretend: 
-pretext: 
-pretty: 
-prevailing: ：
-prevalence: 
-prevalent: 
-prevent: 
-preventable: 
-preventive: 
-preview: 
-previous: 
-previously: 
-prey: 
-price: 
-priceless: 
+prick: 
+pride: 
+priest: 
+primary: ：
+prime: 
+primitive: 
+prince: 
+princess: 
+principally: 
+principle: 
+print: 
+printer: 
+printing: 
+prior: 
+prioritize: 
+priority: 
+prism: 
+prison: 
+prisoner: 
+privacy: 
+private: 
+privilege: 
+privileged: 
+prize: 
+probability: 
+probable: 
+probably: 
+probe: 
+problem: 
+procedure: 
+proceed: 
+proceeding: 
+process: :
+processing: 
+proclaim: 
+procrustes: 
+produce: 【】
+producer: 
+product: 
+production: 
+productive: 
+profess: 
+profession: 
+professional: 
+professor: 
+proficiency: ：
+proficient: 
+profile: 
+profit: ：
+profitable: 
