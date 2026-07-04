@@ -1,50 +1,50 @@
-prick: 
-pride: 
-priest: 
-primary: ：
-prime: 
-primitive: 
-prince: 
-princess: 
-principally: 
-principle: 
-print: 
-printer: 
-printing: 
-prior: 
-prioritize: 
-priority: 
-prism: 
-prison: 
-prisoner: 
-privacy: 
-private: 
-privilege: 
-privileged: 
-prize: 
-probability: 
-probable: 
-probably: 
-probe: 
-problem: 
-procedure: 
-proceed: 
-proceeding: 
-process: :
-processing: 
-proclaim: 
-procrustes: 
-produce: 【】
-producer: 
-product: 
-production: 
-productive: 
-profess: 
-profession: 
-professional: 
-professor: 
-proficiency: ：
-proficient: 
-profile: 
-profit: ：
-profitable: 
+profound: 
+program: 
+programme: 
+programmer: 
+programming: 
+progress: 
+prohibit: :
+prohibition: ：
+prohibitively: 
+project: 
+prolong: 
+prolonged: 
+prominent: 
+promise: 
+promising: 
+promote: 
+promotion: 
+promotional: 
+prompt: :
+promptly: 
+prone: 
+pronounce: 
+pronunciation: 
+proof: 
+propaganda: 
+propagate: 
+propagation: 
+propel: 
+proper: 
+properly: 
+property: 
+prophecy: 【】
+proportion: 
+proportional: 
+proposal: 
+propose: 
+proposition: 
+propulsion: 
+prose: 
+prosecute: 
+prospect: 
+prospective: 
+prosper: 
+prosperity: 
+prosperous: 
+protect: 
+protection: 
+protective: 
+protein: 
+protest: 
