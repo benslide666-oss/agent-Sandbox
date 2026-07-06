@@ -1,50 +1,50 @@
-protestant: 
-protocol: 
-proud: 
-prove: 
-provide: 
-providing: 
-province: 
-provision: 
-provocation: 
-provocative: 
-provoke: 
-proximately: ：
-prudent: 
-prune: 
-prussia: 
-prussian: 【】
-psychiatrist: 
-psychological: 
-psychologist: 
-psychology: ：
-public: 
-publication: 
-publicity: 
-publicize: 
-publicly: 
-pudding: 
-pueblo: 
-puff: 
-pull: 
-pulley: 
-pulse: 
-pump: 
-pumpkin: 
-punch: 
-punctual: 
-punctuate: 
-punish: 
-punishment: 
-puno: 
-pupil: 
-puppy: 
-purchase: 
-pure: :
-purify: 
-puritan: 
-purity: 
-purple: 
-purpose: 
-purse: 
-pursue: 
+pursuit: 
+push: 
+put: 
+puzzle: 
+puzzled: 
+puzzling: ：
+pygmalion: 
+pyramid: ：
+qomolangma: 【】
+quake: 
+quaker: 
+qualification: ： "Qualification"这个单词在英文中通常有两种主要的含义。第一: 
+qualify: 
+qualitative: 
+quality: 
+quantifiable: 
+quantify: 
+quantitative: 
+quantity: :
+quarrel: 
+quart: 
+quarter: 
+quarterly: 
+quartz: 
+queen: 
+queer: 
+quench: 
+quest: 
+question: ：
+questionable: 
+questionnaire: ：
+queue: 
+quick: 
+quicken: ：
+quiet: 
+quilt: 
+quit: 
+quite: 
+quiver: 
+quiz: 
+quota: 
+quotation: 
+quote: 
+rabbit: ：
+race: 
+racial: 
+racially: 
+rack: 
+radar: 
+radiant: 
