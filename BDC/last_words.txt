@@ -1,50 +1,50 @@
-pursuit: 
-push: 
-put: 
-puzzle: 
-puzzled: 
-puzzling: ：
-pygmalion: 
-pyramid: ：
-qomolangma: 【】
-quake: 
-quaker: 
-qualification: ： "Qualification"这个单词在英文中通常有两种主要的含义。第一: 
-qualify: 
-qualitative: 
-quality: 
-quantifiable: 
-quantify: 
-quantitative: 
-quantity: :
-quarrel: 
-quart: 
-quarter: 
-quarterly: 
-quartz: 
-queen: 
-queer: 
-quench: 
-quest: 
-question: ：
-questionable: 
-questionnaire: ：
-queue: 
-quick: 
-quicken: ：
-quiet: 
-quilt: 
-quit: 
-quite: 
-quiver: 
-quiz: 
-quota: 
-quotation: 
-quote: 
-rabbit: ：
-race: 
-racial: 
-racially: 
-rack: 
-radar: 
-radiant: 
+radiate: 
+radiation: 
+radiator: 
+radically: 
+radio: 
+radioactive: 
+radium: 
+radius: 
+rag: 
+rage: 
+rail: 
+railroad: 
+railway: 
+rain: ：
+rainbow: ：
+raincoat: 
+rainy: 
+raise: ：
+raisin: 
+rally: 
+ranch: 
+random: 
+randomly: 
+rank: 
+rape: 
+rapidity: 
+rapture: 
+rare: 
+rarely: 
+rascal: : "Rascal" 是一个英语词汇，通常用于描述一个行为不端、淘气或调皮的人，
+rash: 
+rat: 
+rate: 
+rather: 
+rating: 
+ratio: 
+rational: 
+rattle: 
+raw: 
+ray: 
+razor: 
+reach: 
+reactor: 
+read: 
+reader: 
+readily: 
+reading: 
+readjust: 
+ready: 
+reaffirm: 
