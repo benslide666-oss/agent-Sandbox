@@ -1,50 +1,50 @@
-radiate: 
-radiation: 
-radiator: 
-radically: 
-radio: 
-radioactive: 
-radium: 
-radius: 
-rag: 
-rage: 
-rail: 
-railroad: 
-railway: 
-rain: ：
-rainbow: ：
-raincoat: 
-rainy: 
-raise: ：
-raisin: 
-rally: 
-ranch: 
-random: 
-randomly: 
-rank: 
-rape: 
-rapidity: 
-rapture: 
-rare: 
-rarely: 
-rascal: : "Rascal" 是一个英语词汇，通常用于描述一个行为不端、淘气或调皮的人，
-rash: 
-rat: 
-rate: 
-rather: 
-rating: 
-ratio: 
-rational: 
-rattle: 
-raw: 
-ray: 
-razor: 
-reach: 
-reactor: 
-read: 
-reader: 
-readily: 
-reading: 
-readjust: 
-ready: 
-reaffirm: 
+real: 
+realistic: 
+realization: 
+realize: 
+realm: 
+reap: 
+rearrange: 
+reason: 
+reasonable: ：
+reassess: 
+reassure: 
+rebellion: 
+rebuild: 
+rebuke: 
+recall: 
+recede: 
+receipt: 
+receive: 
+receiver: 
+recent: 
+recently: 
+reception: 
+receptionist: :
+recession: 
+recharge: 
+recipe: :
+recipient: 
+reciprocal: 
+recite: 
+reckless: 
+reckon: 
+reclaim: 
+recognise: 
+recognition: ：
+recognize: 
+recommend: 
+reconciliation: 
+record: :
+recorder: 
+recover: 
+recovery: 
+recreation: 
+recreational: 
+recruit: 
+recruiter: 
+rectangle: 
+rectangular: 
+recur: 
+recurrence: 
+recyclable: 
