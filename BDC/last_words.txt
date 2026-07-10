@@ -1,50 +1,50 @@
-recycle: 
-red: 
-redefine: 
-reduce: 
-reduction: 
-redundant: 
-reel: 
-refer: 
-referee: 
-reference: 
-refine: 
-reflection: 
-reflective: 
-reflexion: 
-refrain: 
-reframe: 
-refreshing: 
-refreshment: 
-refreshments: 
-refrigerator: 
-refuel: 
-refuge: 
-refuse: :
-refute: 
-regain: 
-regan: 
-regard: 
-regarding: 
-regards: 
-regenerative: 
-regime: 
-regiment: 
-region: 
-register: 
-registration: 
-regret: 
-regular: 
-regularity: 
-regularly: 
-regulate: 
-regulation: 
-rehearsal: 
-reign: 
-reimbursement: :
-rein: 
-reinforce: 
-reject: 
-rejection: 
-rejoice: 
-relate: 
+relation: 
+relationship: 
+relativity: 
+relax: :
+relegate: 
+reliability: 
+reliable: ：
+reliance: 
+relief: 
+relieve: 
+relieved: 
+religion: 
+religious: 
+relish: 
+reluctance: 
+reluctant: 
+rely: :
+remain: 
+remark: 
+remedy: 
+remember: 
+remind: 
+remnant: 
+remonstrate: ：
+remote: 
+removal: 
+remove: 
+renaissance: 
+render: 
+renew: 
+renewable: :
+repair: 
+repave: 
+repay: 
+repeal: 
+repeat: 
+（1）: 
+repertoire: 
+repetition: 
+repetitive: :
+replace: :
+replacement: 
+reply: 
+report: 
+reporter: 
+represent: 
+repression: 
+reproach: 
+reproduce: :
+reproduction: 
