@@ -1,50 +1,50 @@
-relation: 
-relationship: 
-relativity: 
-relax: :
-relegate: 
-reliability: 
-reliable: ：
-reliance: 
-relief: 
-relieve: 
-relieved: 
-religion: 
-religious: 
-relish: 
-reluctance: 
-reluctant: 
-rely: :
-remain: 
-remark: 
-remedy: 
-remember: 
-remind: 
-remnant: 
-remonstrate: ：
-remote: 
-removal: 
-remove: 
-renaissance: 
-render: 
-renew: 
-renewable: :
-repair: 
-repave: 
-repay: 
-repeal: 
-repeat: 
-（1）: 
-repertoire: 
-repetition: 
-repetitive: :
-replace: :
-replacement: 
-reply: 
-report: 
-reporter: 
-represent: 
-repression: 
-reproach: 
-reproduce: :
-reproduction: 
+reproductive: 
+reptile: :
+republic: ：
+republican: ：
+reputation: 
+request: 
+requirement: 
+requisite: 
+rescue: 
+research: 
+resemblance: 
+resemble: 
+reservation: 
+reserved: 
+reside: 
+residence: 
+residential: 
+residual: 
+resign: :
+resignation: 
+resist: 
+resistant: 
+resolute: 
+resolution: ：
+resolve: 
+resort: 
+resource: 
+respect: 
+respectable: 
+respectful: 
+respective: 
+respectively: 
+respond: 
+respondent: 
+response: 
+responsibility: 
+responsible: 
+restaurant: 
+restock: ：
+restore: 
+restrict: 
+restriction: 
+restructure: :
+result: 
+resultant: 
+resume: 
+retailer: 
+retard: 
+retention: 
+retire: 
