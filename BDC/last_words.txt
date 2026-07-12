@@ -1,50 +1,50 @@
-reproductive: 
-reptile: :
-republic: ：
-republican: ：
-reputation: 
-request: 
-requirement: 
-requisite: 
-rescue: 
-research: 
-resemblance: 
-resemble: 
-reservation: 
-reserved: 
-reside: 
-residence: 
-residential: 
-residual: 
-resign: :
-resignation: 
-resist: 
-resistant: 
-resolute: 
-resolution: ：
-resolve: 
-resort: 
-resource: 
-respect: 
-respectable: 
-respectful: 
-respective: 
-respectively: 
-respond: 
-respondent: 
-response: 
-responsibility: 
-responsible: 
-restaurant: 
-restock: ：
-restore: 
-restrict: 
-restriction: 
-restructure: :
-result: 
-resultant: 
-resume: 
-retailer: 
-retard: 
-retention: 
-retire: 
+retirement: 
+retrain: 
+retreat: 
+retrieve: 
+return: 
+reunion: 
+reuse: 
+reveal: 
+revenge: 
+review: 
+reviewer: 
+revise: 
+revision: 
+revive: 
+revolt: 
+revolution: 
+revolutionary: 
+revolutionize: 
+reward: 
+rewarding: 
+rewind: 
+rewrite: 
+reykjavik: 
+rhythm: :
+rib: 
+rice: 
+rich: 
+ridge: 
+ridicule: :
+rifle: 
+right: 
+rigid: 
+rigor: 
+rigorous: 
+rim: 
+ring: ：
+rinse: :
+riotous: 
+rip: 
+ripe: 
+ripen: 
+rise: 
+risk: 
+ritual: 
+rival: ：
+rivalry: 
+river: 
+road: 
+roam: 
+roast: 
