@@ -1,50 +1,50 @@
-retirement: 
-retrain: 
-retreat: 
-retrieve: 
-return: 
-reunion: 
-reuse: 
-reveal: 
-revenge: 
-review: 
-reviewer: 
-revise: 
-revision: 
-revive: 
-revolt: 
-revolution: 
-revolutionary: 
-revolutionize: 
-reward: 
-rewarding: 
-rewind: 
-rewrite: 
-reykjavik: 
-rhythm: :
-rib: 
-rice: 
-rich: 
-ridge: 
-ridicule: :
-rifle: 
-right: 
-rigid: 
-rigor: 
-rigorous: 
-rim: 
-ring: ：
-rinse: :
-riotous: 
-rip: 
-ripe: 
-ripen: 
-rise: 
-risk: 
-ritual: 
-rival: ：
-rivalry: 
-river: 
-road: 
-roam: 
-roast: 
+rob: 
+robbery: :
+robot: 
+rock: 
+rocket: 
+roderick: 
+role: 
+roll: ：
+roller: ：
+roman: 
+romantic: 
+rome: 
+roof: 
+rooster: 
+root: 
+rope: 
+rose: 
+rot: 
+rotate: 
+rotten: ：
+rough: 
+roundabout: 
+rouse: 
+route: 
+routine: 
+routinely: 
+row: 
+rubber: ：
+rubbish: ：
+ruby: 
+rug: 
+rugby: :
+rule: ：
+ruler: ：
+ruling: :
+rumour: :
+run: 
+runner: 
+running: 
+rupture: :
+rural: 
+rush: 
+russia: 
+russian: 
+rustle: 
+ruthless: 
+sabbath: 
+sac: :
+sack: 
+sacred: 
