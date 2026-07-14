@@ -1,50 +1,50 @@
-rob: 
-robbery: :
-robot: 
-rock: 
-rocket: 
-roderick: 
-role: 
-roll: ：
-roller: ：
-roman: 
-romantic: 
-rome: 
-roof: 
-rooster: 
-root: 
-rope: 
-rose: 
-rot: 
-rotate: 
-rotten: ：
-rough: 
-roundabout: 
-rouse: 
-route: 
-routine: 
-routinely: 
-row: 
-rubber: ：
-rubbish: ：
-ruby: 
-rug: 
-rugby: :
-rule: ：
-ruler: ：
-ruling: :
-rumour: :
-run: 
-runner: 
-running: 
-rupture: :
-rural: 
-rush: 
-russia: 
-russian: 
-rustle: 
-ruthless: 
-sabbath: 
-sac: :
-sack: 
-sacred: 
+sacrifice: 
+sad: 
+saddle: :
+sadness: 
+safe: 
+safeguard: 
+safety: 
+sailing: 
+sailor: 
+saint: 
+sake: 
+salad: 
+salary: 
+sale: 
+saleable: 
+salesgirl: 
+salesman: 
+sally: 
+salmon: 
+salt: 
+salty: 
+salute: 
+salvation: 
+same: ：
+sample: 
+samuel: 
+sand: 
+sanders: 
+sandwich: 
+sanitation: 
+sanskrit: :
+santa: 
+sardine: 
+sars: 
+satan: 
+satellite: 
+satisfaction: 
+satisfactorily: 
+satisfactory: 
+sato: 
+saturate: :
+saturation: 
+saturday: 
+sauce: 
+saucer: 
+sausage: 
+savage: 
+save: 
+saving: 
+saw: :
