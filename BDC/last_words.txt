@@ -1,50 +1,50 @@
-say: ：
-saying: 
-scaffolding: 
-scale: 
-scan: 
-scandal: :
-scar: ：
-scarce: 
-scarcely: 
-scarcity: 
-scare: 
-scarf: 
-scary: 
-scatter: 
-scent: 
-sceptical: 
-schedule: 
-scholar: 
-school: 
-schoolbag: 
-schoolmate: 
-单词变形: 
-scissors: 
-scoff: 
-scold: 
-scoop: 
-scope: 
-scorch: 
-score: 
-scores: 
-scorn: 
-scotch: 
-scotland: 
-scots: 
-scotsman: 
-scottish: 
-scout: 
-scramble: 
-scrap: 
-scrape: 
-记忆辅助: 
-scream: 
-screen: 
-screw: 
-script: 
-scrooge: 
-scrub: 
-scrutiny: 
-sculpture: 
-sea: 
+seal: :
+seam: 
+seaman: 
+seaport: 
+search: 
+seashell: 
+season: :
+seat: 
+seattle: 
+seaweed: 
+secondary: 
+secondhand: 
+secret: 
+section: 
+sector: 
+secure: 
+security: 
+sedan: 
+see: 
+seed: 
+seek: 
+seem: 
+seemingly: 
+segment: 
+segregate: 
+segregation: 
+seize: 
+seldom: 
+select: 
+selection: 
+selective: 
+selfish: 
+sell: :
+semester: 
+semicircle: 
+semiconductor: 
+seminar: ：
+semitic: ：
+senate: 
+senator: 
+senior: 
+sensation: 
+sensational: 
+sense: 
+senseless: ：
+sensible: 
+sensitive: 
+sentence: 
+sentiment: 
+separately: 
