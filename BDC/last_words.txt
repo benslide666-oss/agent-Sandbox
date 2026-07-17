@@ -1,50 +1,50 @@
-seal: :
-seam: 
-seaman: 
-seaport: 
-search: 
-seashell: 
-season: :
-seat: 
-seattle: 
-seaweed: 
-secondary: 
-secondhand: 
-secret: 
-section: 
-sector: 
-secure: 
-security: 
-sedan: 
-see: 
-seed: 
-seek: 
-seem: 
-seemingly: 
-segment: 
-segregate: 
-segregation: 
-seize: 
-seldom: 
-select: 
-selection: 
-selective: 
-selfish: 
-sell: :
-semester: 
-semicircle: 
-semiconductor: 
-seminar: ：
-semitic: ：
-senate: 
-senator: 
-senior: 
-sensation: 
-sensational: 
-sense: 
-senseless: ：
-sensible: 
-sensitive: 
-sentence: 
-sentiment: 
-separately: 
+separation: 
+september: 
+sequence: ：
+sergeant: 
+series: 
+serious: 
+serpent: 
+servant: 
+serve: 
+server: ：
+service: 
+session: 
+setback: :
+setting: 
+settle: 
+settlement: 
+settler: 
+seven: 
+seventeen: ：
+seventh: 
+seventy: 
+several: 
+severe: 
+severity: 
+sew: 
+sex: 
+sexism: 
+shabby: 
+shade: 
+shadowy: 
+shady: ：
+shaft: 
+shake: 1.
+shakespeare: 
+shall: 
+shame: 
+shameful: 
+shanghai: 
+shape: 
+share: 
+shareholder: 
+shark: 
+sharp: :
+sharpen: 
+sharpener: 
+sharply: 
+shaver: 
+she: 
+shear: 
+shed: 
