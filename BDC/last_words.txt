@@ -1,50 +1,50 @@
-separation: 
-september: 
-sequence: ：
-sergeant: 
-series: 
-serious: 
-serpent: 
-servant: 
-serve: 
-server: ：
-service: 
-session: 
-setback: :
-setting: 
-settle: 
-settlement: 
-settler: 
-seven: 
-seventeen: ：
-seventh: 
-seventy: 
-several: 
-severe: 
-severity: 
-sew: 
-sex: 
-sexism: 
-shabby: 
-shade: 
-shadowy: 
-shady: ：
-shaft: 
-shake: 1.
-shakespeare: 
-shall: 
-shame: 
-shameful: 
-shanghai: 
-shape: 
-share: 
-shareholder: 
-shark: 
-sharp: :
-sharpen: 
-sharpener: 
-sharply: 
-shaver: 
-she: 
-shear: 
-shed: 
+sheer: 
+sheet: 
+shelf: 
+shell: 
+shelter: 
+shepherd: 
+sheriff: ：
+shield: 
+shift: 
+shine: 
+ship: 
+shipbuilding: 
+shipley: 
+shipment: 
+shipwreck: 
+shirt: :
+shiver: :
+shock: ：
+shoe: 
+shoot: 
+shooting: 
+shop: 
+shopping: 
+shore: 
+short: 
+shortage: 
+shortcoming: 
+shortcut: 
+shorthand: :
+shortly: 
+shorts: ：
+shoshone: 
+shot: 
+should: 
+shoulder: 
+shout: 
+shove: ：
+shovel: 
+shower: 
+showmanship: 
+shrank: 
+shrewd: 
+shriek: 
+shrill: 
+shrimp: 
+shrine: 
+shrub: 
+shrug: :
+shut: 
+shuttle: 
