@@ -1,50 +1,50 @@
-sheer: 
-sheet: 
-shelf: 
-shell: 
-shelter: 
-shepherd: 
-sheriff: ：
-shield: 
-shift: 
-shine: 
-ship: 
-shipbuilding: 
-shipley: 
-shipment: 
-shipwreck: 
-shirt: :
-shiver: :
-shock: ：
-shoe: 
-shoot: 
-shooting: 
-shop: 
-shopping: 
-shore: 
-short: 
-shortage: 
-shortcoming: 
-shortcut: 
-shorthand: :
-shortly: 
-shorts: ：
-shoshone: 
-shot: 
-should: 
-shoulder: 
-shout: 
-shove: ：
-shovel: 
-shower: 
-showmanship: 
-shrank: 
-shrewd: 
-shriek: 
-shrill: 
-shrimp: 
-shrine: 
-shrub: 
-shrug: :
-shut: 
-shuttle: 
+sicily: 
+sick: 
+sickness: 
+side: 
+sideway: :
+sideways: :
+siege: 
+sieve: 
+sift: 
+sigh: 
+sightseeing: 
+sign: 
+signal: 
+signature: 
+significance: 
+significant: 
+signify: 
+silence: 
+silent: ：
+silicon: 
+silk: ：
+silly: 
+silver: 
+similarity: 
+similarly: 
+simple: 
+simplicity: 
+simplify: 
+simply: 
+simulate: 
+simultaneous: 
+sin: 
+since: 
+sincere: 
+sing: 
+singer: 
+sink: 
+sip: 
+sir: 
+siren: 
+sister: 
+sit: 
+site: :
+situated: 
+situation: 
+six: ：
+sixteen: 
+sixteenth: 
+sixth: 
+sixty: 
