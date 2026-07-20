@@ -1,50 +1,50 @@
-sicily: 
-sick: 
-sickness: 
-side: 
-sideway: :
-sideways: :
-siege: 
-sieve: 
-sift: 
-sigh: 
-sightseeing: 
-sign: 
-signal: 
-signature: 
-significance: 
-significant: 
-signify: 
-silence: 
-silent: ：
-silicon: 
-silk: ：
-silly: 
-silver: 
-similarity: 
-similarly: 
-simple: 
-simplicity: 
-simplify: 
-simply: 
-simulate: 
-simultaneous: 
-sin: 
-since: 
-sincere: 
-sing: 
-singer: 
-sink: 
-sip: 
-sir: 
-siren: 
-sister: 
-sit: 
-site: :
-situated: 
-situation: 
-six: ：
-sixteen: 
-sixteenth: 
-sixth: 
-sixty: 
+size: ：
+skate: 
+skateboard: 
+skeleton: 
+skeptical: 
+sketch: 
+ski: 
+skill: 
+skilled: 
+skillful: 
+skillfully: :
+skin: 
+skip: 
+skirt: 
+sky: 
+skyscraper: :
+slack: 
+slade: 
+slam: 
+slap: 
+slaughter: 
+slave: 
+slavery: 
+sleep: 
+sleepy: 
+sleeve: 
+slender: 
+slight: 
+slim: ：
+slippery: 
+slit: ：
+slope: 
+slot: 
+slump: 
+smart: ：
+smash: ：
+smell: 
+smelly: :
+smile: 
+smog: 
+smoke: 
+smoker: 
+smuggle: 
+snack: 
+snail: 
+snake: 
+snap: 
+sneak: 
+sneeze: 
+snob: ：
