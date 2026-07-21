@@ -1,50 +1,50 @@
-size: ：
-skate: 
-skateboard: 
-skeleton: 
-skeptical: 
-sketch: 
-ski: 
-skill: 
-skilled: 
-skillful: 
-skillfully: :
-skin: 
-skip: 
-skirt: 
-sky: 
-skyscraper: :
-slack: 
-slade: 
-slam: 
-slap: 
-slaughter: 
-slave: 
-slavery: 
-sleep: 
-sleepy: 
-sleeve: 
-slender: 
-slight: 
-slim: ：
-slippery: 
-slit: ：
-slope: 
-slot: 
-slump: 
-smart: ：
-smash: ：
-smell: 
-smelly: :
-smile: 
-smog: 
-smoke: 
-smoker: 
-smuggle: 
-snack: 
-snail: 
-snake: 
-snap: 
-sneak: 
-sneeze: 
-snob: ：
+snobbish: 
+snore: 
+snow: 
+snowball: 
+snowy: 
+so: 
+so-called: 
+soak: 
+soap: 
+sob: 
+sober: ：
+soccer: 
+social: ：
+socialism: 
+socialist: 
+socialize: 
+society: 
+sock: 
+socket: 
+socks: 
+soda: 
+sodium: 
+softball: 
+soften: 
+softness: 
+software: 
+soil: 
+solar: 
+sole: 
+solemn: ：
+solid: 
+solidarity: 
+solidify: ：
+solitary: 
+solo: 
+soluble: 
+solution: ：
+solve: 
+somebody: 
+somehow: 
+someone: 
+something: ：
+sometime: 
+sometimes: 
+somewhat: 
+somewhere: 
+son: 
+song: 
+soon: 
+soothe: 
