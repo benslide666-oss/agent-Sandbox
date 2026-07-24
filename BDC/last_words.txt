@@ -1,50 +1,50 @@
-spelling: 
-spend: 
-sphere: 
-spherical: 
-spice: 
-spill: 
-spin: 
-spine: ：
-spiral: 
-spirit: 
-spiritual: 
-spite: 
-split: 
-spoil: 
-spoken: 
-spokesman: 
-sponge: 
-sponsor: 
-spontaneous: 
-spoon: 
-spoonful: 
-sport: 
-sportsman: 
-spot: 
-spouse: 
-spread: ：
-spring: 
-sprinkle: ：
-spur: 
-spy: 
-squad: 
-squalor: 
-square: 
-squash: 
-squat: 
-squeeze: 
-squid: 
-squirrel: 
-stab: 
-stability: 
-stabilize: 
-stable: 
-stadium: 
-staff: 
-stage: 
-stainless: 
-staircase: 
-stairs: 
-stairway: 
-stake: 
+stall: 
+stamford: 
+stamp: 
+stand: 
+standard: ：
+standardize: 
+stare: 
+start: 
+startle: 
+startup: 
+starvation: 
+starve: ：
+state: 
+statesman: 
+static: 
+station: 
+stationary: 
+stationery: 
+statistic: :
+statistical: 
+statistics: 
+statue: 【】
+stay: 
+steady: 
+steak: ：
+steal: 
+steam: 
+steamer: 
+steel: 
+steep: 
+steer: 
+step: :
+stereo: 
+stereotype: 
+stern: 
+stew: ：
+steward: 
+stewardess: ：
+stick: ：
+sticky: 
+stiff: 
+still: 
+stillness: 
+stimulate: ：
+stimulus: 
+sting: 
+stir: ：
+stitch: 
+stock: 
+stockbroker: :
