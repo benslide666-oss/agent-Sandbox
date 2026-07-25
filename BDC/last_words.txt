@@ -1,50 +1,50 @@
-stall: 
-stamford: 
-stamp: 
-stand: 
-standard: ：
-standardize: 
-stare: 
-start: 
-startle: 
-startup: 
-starvation: 
-starve: ：
-state: 
-statesman: 
-static: 
-station: 
-stationary: 
-stationery: 
-statistic: :
-statistical: 
-statistics: 
-statue: 【】
-stay: 
-steady: 
-steak: ：
-steal: 
-steam: 
-steamer: 
-steel: 
-steep: 
-steer: 
-step: :
-stereo: 
-stereotype: 
-stern: 
-stew: ：
-steward: 
-stewardess: ：
-stick: ：
-sticky: 
-stiff: 
-still: 
-stillness: 
-stimulate: ：
-stimulus: 
-sting: 
-stir: ：
-stitch: 
-stock: 
-stockbroker: :
+stocking: 
+stomach: 
+stomachache: 
+stone: 
+stoop: 
+stop: 
+stopwatch: 
+store: 
+storey: 
+storm: 
+story: 
+stout: 
+stove: 
+straighten: 
+straightforward: 
+strain: 
+strait: 
+strand: ：
+strange: 
+stranger: 
+strategy: 
+stratford-on-avon: 
+straw: 
+stray: ：
+streak: 
+stream: 
+streamline: ：
+street: 
+strength: 
+strengthen: 
+stretch: 
+strict: 
+stride: 
+strife: 
+strike: 
+striking: 
+string: 
+strip: :
+stripe: 
+stroke: 
+strong: ：
+structural: ：
+structure: 
+struggle: 
+stubborn: 
+student: 
+studio: 
+study: ：
+stuffy: ：
+stumble: 
