@@ -1,50 +1,50 @@
-stocking: 
-stomach: 
-stomachache: 
-stone: 
-stoop: 
-stop: 
-stopwatch: 
-store: 
-storey: 
-storm: 
-story: 
-stout: 
-stove: 
-straighten: 
-straightforward: 
-strain: 
-strait: 
-strand: ：
-strange: 
-stranger: 
-strategy: 
-stratford-on-avon: 
-straw: 
-stray: ：
-streak: 
-stream: 
-streamline: ：
-street: 
-strength: 
-strengthen: 
-stretch: 
-strict: 
-stride: 
-strife: 
-strike: 
-striking: 
-string: 
-strip: :
-stripe: 
-stroke: 
-strong: ：
-structural: ：
-structure: 
-struggle: 
-stubborn: 
-student: 
-studio: 
-study: ：
-stuffy: ：
-stumble: 
+stump: 
+stun: 
+stupid: 
+sturdy: 
+style: 
+subconscious: 
+subdivision: 
+subdue: 
+subject: 
+subjective: 
+submarine: 
+submerge: 
+submit: 
+subordinate: 
+subscribe: 
+subscript: 
+subscription: 
+subsequent: 
+subsequently: 
+subsidiary: 
+subsidize: 
+subsidy: 
+substance: 
+substantial: 
+substitute: 
+subtle: 
+subtract: 
+subtraction: 
+suburb: 
+subway: 
+succeed: 
+succeeding: 
+success: 
+successful: 
+succession: 
+successively: 
+successor: 
+such: 
+suck: :
+sudan: 
+sue: 
+suffering: 
+sufficient: 
+sugar: 
+suggest: 
+suggestion: 
+suicide: 
+suit: 
+suitable: 
+suite: 
