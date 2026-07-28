@@ -1,50 +1,50 @@
-sulfur: 
-sullen: 
-sulphur: 
-sum: 
-summarize: 
-summary: 
-summit: :
-summon: 
-sun: 
-sunburnt: 
-sunday: ：
-sunglasses: 
-sunlight: 
-sunny: 
-sunset: 
-sunshine: 
-super: 
-小故事: ###
-superficial: 
-superintendent: 
-superior: 
-superman: 
-superstition: 
-supervise: 
-supervision: 
-supervisor: 
-supper: ：
-supplementary: 
-support: 
-suppose: 
-supreme: 
-sure: 
-surge: 
-surgeon: 
-surgery: 
-分析词义: ###
-surplus: 
-surprise: ：
-surrender: 
-surround: 
-surrounding: 
-surroundings: 
-survey: 
-survival: 
-词缀分析: 
-survivor: 
-susceptible: 
-suspend: 
-suspension: 
-suspicion: 
+suspicious: 
+sustain: 
+sustainable: ：
+swallow: 
+swamp: 
+swap: 
+swear: 
+sweat: 
+sweater: 
+sweden: 
+sweet: 
+sweeten: 
+sweetness: 
+swell: 
+swim: 
+swimming: 
+swing: ：
+swiss: 
+switch: 
+switzerland: 
+sydney: 
+symbol: 
+symbolic: 
+symmetrical: 
+symmetry: 
+sympathetic: :
+sympathize: 
+sympathy: 
+symphony: 
+symposium: 
+symptom: 
+syndrome: 
+synthesis: 
+synthetic: 
+system: 
+systematic: 
+systematical: 
+systematically: 
+: :
+table: ：
+tack: 
+tackle: 
+tactics: 
+tag: 
+tail: 
+tailor: 
+takeoff: 
+tale: 
+talent: 
+talk: 
