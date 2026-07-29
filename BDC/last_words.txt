@@ -1,50 +1,50 @@
-suspicious: 
-sustain: 
-sustainable: ：
-swallow: 
-swamp: 
-swap: 
-swear: 
-sweat: 
-sweater: 
-sweden: 
-sweet: 
-sweeten: 
-sweetness: 
-swell: 
-swim: 
-swimming: 
-swing: ：
-swiss: 
-switch: 
-switzerland: 
-sydney: 
-symbol: 
-symbolic: 
-symmetrical: 
-symmetry: 
-sympathetic: :
-sympathize: 
-sympathy: 
-symphony: 
-symposium: 
-symptom: 
-syndrome: 
-synthesis: 
-synthetic: 
-system: 
-systematic: 
-systematical: 
-systematically: 
-: :
-table: ：
-tack: 
-tackle: 
-tactics: 
-tag: 
-tail: 
-tailor: 
-takeoff: 
-tale: 
-talent: 
-talk: 
+tall: 
+tan: 
+tangle: 
+tangled: 
+tank: 
+tanker: :
+tanzania: 
+tap: 
+tape: 
+taper: 
+tar: ：
+target: 
+tariff: ：
+task: 
+tasmania: 
+taste: 
+tasteless: 
+tasty: 
+tax: 
+tea: 
+teach: 
+teacher: 
+team: 
+teapot: 
+tease: 
+technical: 
+technician: :
+technique: 
+technology: 
+tedious: 
+teenager: 
+telecommunications: 
+telegram: 
+telegraph: 
+telemachus: 
+telephone: 
+telescope: 【】
+television: 
+telex: 
+tell: 
+temper: 
+temperament: 
+temperature: 
+temple: 
+tempo: 
+temporary: 【】
+tempt: 
+temptation: 
+ten: 
+tenant: 
