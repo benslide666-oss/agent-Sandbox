@@ -1,50 +1,50 @@
-tall: 
-tan: 
-tangle: 
-tangled: 
-tank: 
-tanker: :
-tanzania: 
-tap: 
-tape: 
-taper: 
-tar: ：
-target: 
-tariff: ：
-task: 
-tasmania: 
-taste: 
-tasteless: 
-tasty: 
-tax: 
-tea: 
-teach: 
-teacher: 
-team: 
-teapot: 
-tease: 
-technical: 
-technician: :
-technique: 
-technology: 
-tedious: 
-teenager: 
-telecommunications: 
-telegram: 
-telegraph: 
-telemachus: 
-telephone: 
-telescope: 【】
-television: 
-telex: 
-tell: 
-temper: 
-temperament: 
-temperature: 
-temple: 
-tempo: 
-temporary: 【】
-tempt: 
-temptation: 
-ten: 
-tenant: 
+tendency: ：
+tender: 
+tennessee: 
+tense: ：
+tent: 
+tentative: 
+tenth: 
+term: 
+terminal: 
+terminology: 
+terrace: 
+terrain: :
+terrible: 
+terribly: ：
+terrific: 
+terrify: 
+territory: 
+terror: 
+terrorist: ：
+test: 
+testify: 
+testimony: 
+texas: 
+text: ：
+textbook: 
+textile: 
+texture: 
+thai: 
+thailand: 
+thames: 
+than: 
+thank: 
+thankful: 
+thanksgiving: 
+that: :
+the: 
+theatre: 
+theft: :
+their: 
+theirs: 
+them: 
+theme: 
+themselves: 
+then: 
+theorem: ：
+theoretical: 
+theory: 
+therapy: 
+there: 
+thereafter: 
