@@ -1,50 +1,50 @@
-tendency: ：
-tender: 
-tennessee: 
-tense: ：
-tent: 
-tentative: 
-tenth: 
-term: 
-terminal: 
-terminology: 
-terrace: 
-terrain: :
-terrible: 
-terribly: ：
-terrific: 
-terrify: 
-territory: 
-terror: 
-terrorist: ：
-test: 
-testify: 
-testimony: 
-texas: 
-text: ：
-textbook: 
-textile: 
-texture: 
-thai: 
-thailand: 
-thames: 
-than: 
-thank: 
-thankful: 
-thanksgiving: 
-that: :
-the: 
-theatre: 
-theft: :
-their: 
-theirs: 
-them: 
-theme: 
-themselves: 
-then: 
-theorem: ：
-theoretical: 
-theory: 
-therapy: 
-there: 
-thereafter: 
+thereby: 
+therefore: 
+therein: 
+thereof: 
+thermal: 
+thermometer: 
+thermos: 【】
+these: 
+thesis: 
+they: 
+thick: 
+thicken: 
+thickness: 
+thigh: 
+thin: 
+thing: 
+think: 
+thinking: 
+third: 
+thirst: 
+thirsty: 
+thirteen: 
+thirty: 
+this: 
+thorn: 
+those: 
+though: 
+thought: 
+thoughtful: 
+thoughtless: 
+thousand: 
+thrash: 
+thread: 
+threat: 
+threaten: 
+three: 
+thresh: 
+threshold: 
+thrifty: 
+thrill: 
+thriller: 
+thrilling: 
+thrive: 
+throat: 
+throne: 
+throughout: :
+thrust: 
+thumb: 
+thunder: 
+thunderstorm: 
