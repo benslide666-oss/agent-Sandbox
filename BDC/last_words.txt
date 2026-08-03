@@ -1,50 +1,50 @@
-tooth: 
-toothache: :
-toothbrush: 
-toothpaste: 
-top: 
-torch: 
-torment: 
-toronto: ：
-torpedo: 
-torque: 
-tortoise: :
-torture: 
-tory: 
-toss: 
-total: 
-totally: 
-touch: 
-tough: 
-tour: ：
-tourism: 
-tourist: 
-tournament: 
-tow: 
-toward: 
-towards: 
-towel: 
-tower: 
-town: 
-toxic: 
-trace: 
-track: 
-tractor: :
-trade: ：
-trade-off: 
-trademark: 
-tradeoff: 
-trader: 
-tradesman: 
-tradition: 
-traditional: 
-traffic: 
-tragedy: ：
-tragic: 
-trail: 
-train: 
-training: 
-trait: 
-trample: 
-tranquil: 
-transaction: 
+transcend: 
+transformation: 
+transformer: 
+transient: 
+transistor: 
+transit: 
+transition: 
+translate: 
+translation: 
+translator: 
+transmission: 
+transmit: 
+transparent: 
+transplant: 
+transportation: 
+transverse: 
+trash: 
+traverse: 
+tread: 
+treasurer: 
+treat: 
+treatment: 
+treaty: 
+tree: 
+tremble: 
+tremendous: 
+trench: ：
+trent: 
+trial: 
+triangular: 
+tribe: ：
+tribute: 
+trick: ：
+trim: 
+trinidad: 
+trip: 
+triple: 
+triumph: 
+triumphant: :
+发展历史和文化背景: 
+trolley: 
+tropical: ：
+trot: :
+trouble: :
+troublesome: 
+trousers: 
+truck: :
+true: 
+truly: 
+trumpet: :
