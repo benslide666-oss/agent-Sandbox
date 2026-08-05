@@ -1,50 +1,50 @@
-trunk: 
-trust: ：
-truth: 
-try: 
-tube: 
-tuberculosis: 
-tuesday: 
-tuition: 
-tulip: 
-tumble: 
-tuna: 
-词根分析: 
-turbine: 
-turbulence: 
-turkey: 
-turkic: 
-turn: 
-turner: ：
-turning: 
-turnover: 
-turpan: 
-turtle: 
-tutor: ：
-tv: 
-twelfth: 
-twelve: 
-twentieth: 
-twenty: 
-twice: 
-twilight: :
-twist: **:**
-two: 
-type: 
-typhoon: 
-typical: 
-typist: :
-tyrant: 
-tyre: 
-uganda: 
-ugly: 
-uk: ：
-ultimate: 
-ultimately: 
-uluru: 
-umbrella: 
-un: 
-unable: 
-unaffordable: 
-unanimous: 
-unbearable: 
+uncertain: 
+uncomfortable: 
+unconditional: 
+uncover: ：
+undecided: 
+under: :
+underestimate: 
+undergraduate: :
+underlying: 
+undermine: 
+underrepresented: ：
+underscore: 
+understand: 
+understanding: 
+undertake: 
+undertaking: 
+undervalue: 
+underwear: 
+undesirable: 
+undivided: 
+undocumented: 
+undoubtedly: 
+uneasy: 
+unemployment: 
+unethical: 
+uneven: 
+unfold: :
+unfortunate: 
+unfortunately: ：
+unhappy: 
+unhealthy: 
+unified: 
+uniform: ：
+uniformly: 
+unimportant: 
+uninformed: 
+unintended: 
+unintentionally: 
+unique: 
+unit: 
+unite: :
+unity: 
+universal: 
+universally: 
+universe: 
+university: 
+unknown: 
+unlike: ：
+unlikely: 
+unload: 
