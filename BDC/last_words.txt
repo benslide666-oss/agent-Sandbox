@@ -1,50 +1,50 @@
-uncertain: 
-uncomfortable: 
-unconditional: 
-uncover: ：
-undecided: 
-under: :
-underestimate: 
-undergraduate: :
-underlying: 
-undermine: 
-underrepresented: ：
-underscore: 
-understand: 
-understanding: 
-undertake: 
-undertaking: 
-undervalue: 
-underwear: 
-undesirable: 
-undivided: 
-undocumented: 
-undoubtedly: 
-uneasy: 
-unemployment: 
-unethical: 
-uneven: 
-unfold: :
-unfortunate: 
-unfortunately: ：
-unhappy: 
-unhealthy: 
-unified: 
-uniform: ：
-uniformly: 
-unimportant: 
-uninformed: 
-unintended: 
-unintentionally: 
-unique: 
-unit: 
-unite: :
-unity: 
-universal: 
-universally: 
-universe: 
-university: 
-unknown: 
-unlike: ：
-unlikely: 
-unload: 
+unlock: 
+unmarried: 
+unpaid: 
+unpleasant: 
+unprecedented: ：
+unqualified: 
+unrealistic: 
+unreasonable: :
+unrest: :
+小故事: 
+unstable: 
+untie: 
+until: 
+untiring: :
+untreated: :
+untrue: 
+untrustworthy: 
+unusual: 
+unwilling: 
+up-to-date: :
+update: 
+upgrade: 
+uphold: 
+upper: 
+upright: 
+uproar: ：
+upset: 
+upstairs: 
+upward: :
+uranium: ：
+urban: 
+urbanization: 
+urge: 
+urgent: 
+us: 
+usa: 
+usage: 
+use: 
+user: ：
+usual: 
+usually: 
+utah: 
+ute: 
+utensil: 
+utility: 
+utilization: 
+utilize: 
+utmost: 
+utopia: 
+utopian: 【】
