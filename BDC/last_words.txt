@@ -1,50 +1,50 @@
-utterly: 
-vaccinate: 
-vacuum: ：
-vague: 
-vain: 
-valid: 
-validation: 
-validity: 
-valley: 
-valuable: 
-valve: 
-vancouver: 
-vanilla: 
-vapour: 
-variable: 
-variation: 
-variety: 
-various: ：
-vase: 
-vast: 
-vat: 
-veal: 
-vector: 
-vegetable: 
-vegetarian: 
-vegetation: 
-veil: 
-vein: 
-velvet: ：
-venice: 
-vent: 
-ventilate: 
-venture: 
-venus: 
-verbal: 
-verify: 
-versatile: 
-version: 
-very: 
-vessel: ：
-veteran: 
-veto: 
-via: 
-vibrate: 
-vice: :
-vicinity: 
-vicious: 
-victim: 
-victimize: 
-victor: 
+victorian: 
+victory: 
+video: 
+videophone: 
+vietnam: 
+view: 
+viewer: 
+viewpoint: 
+vigour: 
+viking: 
+villa: 
+villager: 
+vinegar: 
+violate: ：
+violation: 
+violence: 
+violent: 
+violet: 
+violin: 
+violinist: 
+vip: 
+virgin: 
+virginian: 
+virtual: 
+virtually: 
+virtue: 
+virus: 
+visceral: 
+viscous: ：
+visibility: 
+visible: 
+vision: 
+visit: ：
+visitor: 【】
+visualize: 
+vitality: ：
+vitally: 
+vivid: 
+vocabulary: 
+vocal: 
+vocation: 
+vocational: 
+voice: ：
+void: 
+volcano: 
+volleyball: 
+volt: 
+voltage: 
+volume: 
+voluntary: 
