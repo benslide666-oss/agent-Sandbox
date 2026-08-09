@@ -1,50 +1,50 @@
-victorian: 
-victory: 
-video: 
-videophone: 
-vietnam: 
-view: 
-viewer: 
-viewpoint: 
-vigour: 
-viking: 
-villa: 
-villager: 
-vinegar: 
-violate: ：
-violation: 
-violence: 
-violent: 
-violet: 
-violin: 
-violinist: 
-vip: 
-virgin: 
-virginian: 
-virtual: 
-virtually: 
-virtue: 
-virus: 
-visceral: 
-viscous: ：
-visibility: 
-visible: 
-vision: 
-visit: ：
-visitor: 【】
-visualize: 
-vitality: ：
-vitally: 
-vivid: 
-vocabulary: 
-vocal: 
-vocation: 
-vocational: 
-voice: ：
-void: 
-volcano: 
-volleyball: 
-volt: 
-voltage: 
-volume: 
-voluntary: 
+volunteer: 
+vote: 
+vow: ：
+vowel: 
+voyage: ：
+vulgar: 
+vulnerable: 
+wade: 
+wag: 
+wage: :
+waggon: 
+wagon: :
+waist: 
+wait: 
+waiter: 
+waitress: 
+wake: 
+wales: 
+walk: 
+walkman: 
+wall: ：
+wallet: 
+wander: ：
+want: 
+war: 
+wardrobe: 
+ware: 
+warehouse: 
+warfare: 
+warm: 
+warmth: 
+warn: 
+warning: 
+warrant: 
+wash: 
+washington: :
+washroom: :
+wasp: 
+waste: 
+wasteful: 
+watch: 
+watchful: 
+water: 
+watermelon: 
+watertight: ：
+watery: 
+watt: 
+wave: 
+waver: 【】
+wax: 
