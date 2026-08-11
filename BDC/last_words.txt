@@ -1,50 +1,50 @@
-way: :
-we: 
-weak: 
-weaken: 
-weakness: 
-wealth: 
-wealthy: 
-weapon: 
-wear: 
-weary: 
-weather: 
-weatherman: 
-weave: 
-weaver: 
-web: 
-website: 
-wedding: 
-wedge: ：
-weed: :
-week: 
-weekday: 
-weekly: 
-weight: 
-weird: 
-welcome: 
-weld: :
-welfare: 
-well: 
-well-known: 
-welsh: 
-west: ：
-western: 
-westerner: 
-westwards: 
-wet: 
-whale: 【】
-wharf: 
-what: 
-whatever: 
-wheat: 
-wheel: 
-whenever: 
-where: 【】
-whereas: 
-whereby: :
-wherever: 
-whether: 
-which: 
-whichever: :
-while: 
+whilst: 
+whip: 
+whirl: :
+whistle: 
+white: 
+whitewash: 
+whitney: 
+who: 
+whoever: 
+whole: 
+wholesome: 
+wholly: 
+whose: :
+why: 
+wicked: 
+wide: 
+widely: 
+widen: 
+widespread: 
+width: 
+wife: 
+wild: ：
+wildaid: 
+wildfire: 
+wildlife: 
+will: 
+willful: 
+willing: 
+willingness: 
+willow: 
+win: 
+windbreaker: 
+winding: 
+window: 
+windy: 
+wine: 
+wink: 
+winner: 
+winter: 
+wipe: 
+wire: 
+wisdom: 
+wise: 
+wish: 
+wit: 
+with: 
+withdraw: 
+wither: 
+within: 
+without: 
