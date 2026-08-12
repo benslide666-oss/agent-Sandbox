@@ -1,50 +1,50 @@
-whilst: 
-whip: 
-whirl: :
-whistle: 
-white: 
-whitewash: 
-whitney: 
-who: 
-whoever: 
-whole: 
-wholesome: 
-wholly: 
-whose: :
-why: 
-wicked: 
-wide: 
-widely: 
-widen: 
-widespread: 
-width: 
-wife: 
-wild: ：
-wildaid: 
-wildfire: 
-wildlife: 
-will: 
-willful: 
-willing: 
-willingness: 
-willow: 
-win: 
-windbreaker: 
-winding: 
-window: 
-windy: 
-wine: 
-wink: 
-winner: 
-winter: 
-wipe: 
-wire: 
-wisdom: 
-wise: 
-wish: 
-wit: 
-with: 
-withdraw: 
-wither: 
-within: 
-without: 
+withstand: 
+witness: ：
+witty: 
+woe: 
+wolf: 
+woman: 
+wonderful: 
+woo: 
+wooden: 
+wool: 
+woollen: 
+word: :
+work: 
+worker: 
+workload: 
+workman: 
+workpiece: 
+workplace: ：
+works: 
+workshop: 
+world: 
+world-wide: 
+worldly: 
+worm: 
+worn: 
+worried: 
+worry: 
+worse: ：
+worsen: 
+worship: 
+worth: 
+worthless: :
+worthwhile: ：
+worthy: ：
+would: 
+wounded: 
+wow: 
+wrap: 
+wrath: 
+wreck: 
+wrestle: 
+wretched: 
+wrinkle: 
+write: 
+writer: 
+writing: 
+wrong: 
+wwf: 
+x-ray: 
+xerox: 
