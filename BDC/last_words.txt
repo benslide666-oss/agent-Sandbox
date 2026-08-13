@@ -1,50 +1,40 @@
-withstand: 
-witness: ：
-witty: 
-woe: 
-wolf: 
-woman: 
-wonderful: 
-woo: 
-wooden: 
-wool: 
-woollen: 
-word: :
-work: 
-worker: 
-workload: 
-workman: 
-workpiece: 
-workplace: ：
-works: 
-workshop: 
-world: 
-world-wide: 
-worldly: 
-worm: 
-worn: 
-worried: 
-worry: 
-worse: ：
-worsen: 
-worship: 
-worth: 
-worthless: :
-worthwhile: ：
-worthy: ：
-would: 
-wounded: 
-wow: 
-wrap: 
-wrath: 
-wreck: 
-wrestle: 
-wretched: 
-wrinkle: 
-write: 
-writer: 
-writing: 
-wrong: 
-wwf: 
-x-ray: 
-xerox: 
+yacht: 
+yale: 
+yang: 
+yankee: 
+year: 
+yearly: 
+yearn: 
+yeast: 
+yell: 
+yellow: 
+yes: 
+yesterday: 
+yet: 
+yield: :
+yin: 
+yoghurt: 
+yoke: :
+yolk: 
+yorkshire: ：
+you: 
+young: 
+youngster: 
+your: 
+yours: ：
+yourself: 
+yourselves: 
+youth: 
+yuan: 
+yucatan: 
+yummy: 
+zealand: 
+zebra: ：
+zero: 
+zinc: 
+zionism: 
+zip: 
+zipper: 
+zone: 
+zoo: 
+zulu: 
